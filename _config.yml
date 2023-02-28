@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Environmental Social Science (Human Dimensions)
+title: Climate Governance
 description: Course Website
 author: Ted Hsuan Yun Chen
-baseurl: '/ESS-HumanDimensions' # the subpath of your site, e.g. /blog
+baseurl: '/ESS-ClimateGovernance' # the subpath of your site, e.g. /blog
 url: 'https://tedhchen.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -28,7 +28,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Github Repository:
-    - 'https://github.com/tedhchen/ESS-HumanDimensions'
+    - 'https://github.com/tedhchen/ESS-ClimateGovernance'
 footer_content:  'Ted Hsuan Yun Chen &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
 
 # Collections for website data
