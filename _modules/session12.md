@@ -4,16 +4,15 @@ type: outline
 ---
 
 Overview
-: Topic Focus: Artificial intelligence in human-environment interactions
+: Sources of climate obstruction
 
 Readings
-: Introne, J. et al. 2013. ["Solving Wicked Social Problems with Socio-computational Systems."](https://doi.org/10.1007/s13218-012-0231-2){:target="_blank"} _KI - Künstliche Intelligenz_ 27, 45-52.
 
-: Crawford, K. 2021. _The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence._ Yale University Press. Introduction, Chapter 1, and one additional chapter from 2-6.
+: Ard, K. et al. 2017. ["Another avenue of action: an examination of climate change countermovement industries’ use of PAC donations and their relationship to Congressional voting over time."](https://doi.org/10.1080/09644016.2017.1366291){:target="_blank"} _Environmental Politics_ 26(6): 1107-1131.
 
-Apr 17
-: **Lecture**{: .label .label-lecture } The environmental policy process
-: **Questions 10**{: .label .label-hw } Reading questions due
+Class A
+: **Lecture**{: .label .label-lecture } Coordinated and uncoordinated climate obstruction
+: **Questions 11**{: .label .label-hw } Reading questions due
 
-Apr 19
-: **In-class Exercise**{: .label .label-lab } Policy memo working session
+Class B
+: **In-class Exercise 4**{: .label .label-lab } Designing climate obstruction exercise

@@ -4,13 +4,11 @@ type: outline
 ---
 
 Overview
-: Policy memo presentation week
+: Final project presentation week
 
-May 1
-: **Presentations**{: .label .label-present } Policy memo presentations
+Class A
+: **Final project**{: .label .label-present } Presentations
 
-May 3
-: **Presentations**{: .label .label-present } Policy memo presentations
+Class B
+: **Final project**{: .label .label-present } Presentations
 
-May 5
-: **Project 3**{: .label .label-hw } Policy memos due

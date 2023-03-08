@@ -4,16 +4,24 @@ type: outline
 ---
 
 Overview
-: How technological advancements change human-environment interactions
-: Learning how to produce policy memos
+: Transnational nonstate climate advocacy networks
 
 Readings
-: Siders, A.R., Pierce, A.R. 2021. ["Deciding how to make climate change adaptation decisions."](https://doi.org/10.1016/j.cosust.2021.03.017){:target="_blank"} _Current Opinion in Environmental Sustainability_ 52, 1-8.
-: Additional readings TBD
 
-Apr 10
-: **Lecture**{: .label .label-lecture } The Role of Technology in Human-Environment Interactions
-: **Questions 9**{: .label .label-hw } Reading questions due
+: Hale, T. 2020. ["Transnational actors and transnational governance in global environmental politics."](https://doi.org/10.1146/annurev-polisci-050718-032644){:target="_blank"} _Annual Review of Political Science_ 23, 203-220.
 
-Apr 12
-: **Lecture**{: .label .label-lecture } Policy memo tutorial
+: Leifeld, P., Fisher, D. 2017. ["Membership nominations in international scientific assessments."](https://doi.org/10.1038/nclimate3392){:target="_blank"} _Nature Climate Change_ 7, 730-735.
+
+: Vu, H.T. et al. 2020. ["Who Leads the Conversation on Climate Change?: A Study of a Global Network of NGOs on Twitter."](https://doi.org/10.1080/17524032.2019.1687099){:target="_blank"} _Environmental Communication_ 14(4):450-464.
+
+: **Recommended**{: .label .label-optional } Vu, H.T. et al. 2021. ["Social Media and Environmental Activism: Framing Climate Change on Facebook by Global NGOs."](https://doi.org/10.1080/17524032.2019.1687099){:target="_blank"} _Science Communication_ 43(1):91-115.
+
+: **Recommended**{: .label .label-optional } Fünfgeld, H. 2015. ["Facilitating local climate change adaptation through transnational municipal networks"](https://doi.org/10.1016/j.cosust.2014.10.011){:target="_blank"} _Current Opinions in Environmental Sustainability_ 12, 67-73.
+
+
+Class A
+: **Lecture**{: .label .label-lecture } Transnational actors
+: **Questions 10**{: .label .label-hw } Reading questions due
+
+Class B
+: **Final project**{: .label .label-present } Working lab

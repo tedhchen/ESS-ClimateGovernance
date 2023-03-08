@@ -4,18 +4,19 @@ type: outline
 ---
 
 Topic
-: Global environmental governance through international regimes and transnational networks
+: Climate change litigation
 
 Readings
-: Ostrom, E. 2010. ["Polycentric systems for coping with collective action and global environmental change."](https://doi.org/10.1016/j.gloenvcha.2010.07.004){:target="_blank"} _Global Environmental Change_ 20(4): 550-557.
 
-: Aklin, M., Mildenberger, M. 2020. ["Prisoners of the Wrong Dilemma: Why Distributive Conflict, Not Collective Action, Characterizes the Politics of Climate Change."](https://doi.org/10.1162/glep_a_00578){:target="_blank"} _Global Environmental Politics_ 20(4): 4-27.
+: Peel, J., Osofsky, H.M. 2020. ["Climate Change Litigation."](https://doi.org/10.1146/annurev-lawsocsci-022420-122936){:target="_blank"} _Annual Review of Law and Social Science_ 16, 21-38.
 
-: Additional readings TBD
+: Holm, F., Berardo, R. 2020. ["Coalitional Architecture of Climate Change Litigation Networks in the United States."](https://doi.org/10.1111/ropr.12402){:target="_blank"} _Review of Policy Research_ 37(6): 797-822.
 
-Mar 27
+: **Recommended**{: .label .label-optional } Marjanac, S., Patton, L. 2018. ["Extreme weather event attribution science and climate change litigation: an essential step in the causal chain?"](https://doi.org/10.1080/02646811.2018.1451020){:target="_blank"} _Journal of Energy & Natural Resources Law_ 36(3): 265-298.
+
+Class A
 : **Lecture**{: .label .label-lecture } International regimes and environmental governance
-: **Questions 7**{: .label .label-hw } Reading questions due
+: **Questions 8**{: .label .label-hw } Reading questions due
 
-Mar 29
-: **Lecture**{: .label .label-lecture } Guest lecture on global environmental politics
+Class B
+: **Final project**{: .label .label-present } Demonstration and working lab

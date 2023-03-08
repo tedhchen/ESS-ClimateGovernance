@@ -4,16 +4,21 @@ type: outline
 ---
 
 Topic
-: Topic focus: Living with natural hazards
+: Complex systems, networks, and systems approaches
 
 Readings
-: Kates, R.W. et al. 2012. ["Transformational adaptation when incremental adaptations to climate change are insufficient."](https://doi.org/10.1073/pnas.1115521109){:target="_blank"} _Proceedings of the National Academy of Sciences_ 109(19): 7156-7161.
 
-: Tierney, K. 2012. ["Disaster Governance: Social, Political, and Economic Dimensions."](https://doi.org/10.1146/annurev-environ-020911-095618){:target="_blank"} 37: 341-363.
+: Hofstadter, D.R. 1981. "Prelude... Ant Fugue," in Hofstadter, D.R., Dennett, D.C. eds. _The Mind's I: Fantasies and Relfections on Self and Soul_, Ch. 11, Basic Books.
 
-Feb 6
-: **In-class Exercise**{: .label .label-lab } Form groups and find topic for Mapping Mason project
+: Bodin, Ö. et al. 2019. ["Improving network approaches to the study of complex social–ecological interdependencies."](https://doi.org/10.1038/s41893-019-0308-0){:target="_blank"} _Nature Sustainability_ 2, 551-559.
+
+: Ostrom, E. 2009. ["A General Framework for Analyzing Sustainability of Social-Ecological Systems."](https://doi.org/10.1126/science.1172133){:target="_blank"} _Science_ 325(5939): 419-422.
+
+: **Recommended**{: .label .label-optional } Newman, M.E.J. 2011. ["Resource Letter CS-1: Complex Systems."](https://doi.org/10.1119/1.3590372){:target="_blank"} _American Journal of Physics_ 79, 800.
+
+Class A
+: **Lecture**{: .label .label-lecture } Introduction to complexity and systems approaches
 : **Questions 2**{: .label .label-hw } Reading questions due
 
-Feb 8
-: **Lecture**{: .label .label-lecture } Guest lecture from University Sustainability
+Class B
+: **In-class Exercise 1**{: .label .label-lab } Systems thinking exercise

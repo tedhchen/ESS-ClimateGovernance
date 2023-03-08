@@ -4,21 +4,23 @@ type: outline
 ---
 
 Topic
-: Complexity and systems-thinking
-: Learning how to do systems modeling
+: Public opinion surrounding climate politics
+: Climate skepticism and denial
 
 Readings
-: Ostrom, E. 2009. ["A General Framework for Analyzing Sustainability of Social-Ecological Systems."](https://doi.org/10.1126/science.1172133){:target="_blank"} _Science_ 325(5939): 419-422.
 
-: Ostrom, E. 2009. [_Nobel Prize Lecture: Beyond Markets and States: Polycentric Governance of Complex Economic Systems_.](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/lecture/){:target="_blank"}
+: Egan, P.J., Mullin, M. 2017. ["Climate Change: US Public Opinion."](https://doi.org/10.1146/annurev-polisci-051215-022857){:target="_blank"} _Annual Review of Political Science_ 20, 209-227.
 
-: Meadows, D. 2009. _Thinking in Systems._ Earthscan. Introduction and Chapter 1. 
+: Hornsey, M.J., Lewandowsky, S. 2022. ["A toolkit for understanding and addressing climate scepticism."](https://doi.org/10.1038/s41562-022-01463-y){:target="_blank"} _Nature Human Behaviour_ 6, 1454-1464.
 
-: **Recommended**{: .label .label-optional } Hofstadter, D.R. 1981. "Prelude... Ant Fugue," in Hofstadter, D.R., Dennett, D.C. eds. _The Mind's I: Fantasies and Relfections on Self and Soul_, Ch. 11, Basic Books.
+: Sarathchandra, D. et al. 2020. ["Trust/distrust judgments and perceptions of climate science: A research note on skeptics’ rationalizations."](https://doi.org/10.1177/0963662519886089){:target="_blank"} _Public Understanding of Science_ 29(1): 53-60.
 
-Feb 20
-: **Lecture**{: .label .label-lecture } Introduction to complexity and systems-thinking
-: **Questions 3**{: .label .label-hw } Reading questions due
+: **Recommended**{: .label .label-optional } Chinn, S. et al. 2020. ["Politicization and Polarization in Climate Change News Content, 1985-2017."](https://doi.org/10.1177/107554701990029){:target="_blank"} _Science Communication_ 42(1): 112-129.
 
-Feb 22
-: **Lecture**{: .label .label-lecture } Systems-thinking modeling tutorial
+Class A
+: **Lecture**{: .label .label-lecture } Determinants of public attitudes toward climate mitigation and adaptation
+: **Questions 4**{: .label .label-hw } Reading questions due
+
+Class B
+: **In-class Exercise 2**{: .label .label-lab } Climate communication experimental design exercise
+

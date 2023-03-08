@@ -4,20 +4,19 @@ type: outline
 ---
 
 Topic
-: Humans-environment interactions as socioecological systems
+: Topic Focus: Governance surrounding climate-induced hazards
 
 Readings
-: Scott, J.C. 1996. ["State Simplifications: Nature, Space, and People,"](https://doi.org/10.18574/nyu/9780814788844.003.0007){:target="_blank"} in Shapiro, I, Hardin, R. eds., _Political Order_, pp. 42-85. NYU Press.
 
-: Laitin, D.D. 1999. ["Review of: _Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed_ by James C. Scott."](https://doi.org/10.1162/jinh.1999.30.1.177){:target="_blank"} _The Journal of Interdisciplinary History_ 30(1): 177-179.
+: Kates, R.W. et al. 2012. ["Transformational adaptation when incremental adaptations to climate change are insufficient."](https://doi.org/10.1073/pnas.1115521109){:target="_blank"} _Proceedings of the National Academy of Sciences_ 109(19): 7156-7161.
 
-: Folke, C. et al. 2016. ["Social-ecological resilience and biosphere-based sustainability science."](http://dx.doi.org/10.5751/ES-08748-210341){:target="_blank"} _Ecology & Society_ 21(3):41.
+: Tierney, K. 2012. ["Disaster Governance: Social, Political, and Economic Dimensions."](https://doi.org/10.1146/annurev-environ-020911-095618){:target="_blank"} _Annual Review of Environmenta and Resources_ 37: 341-363.
 
-: Djoudi, H. et al. 2022. ["Trees as brokers in social networks: Cascades of rights and benefits from a Cultural Keystone Species."](https://doi.org/10.1007/s13280-022-01733-z){:target="_blank"} _Ambio_ 51, 2137-2154.
+: Koslov, L. et al. 2021. ["When rebuilding no longer means recovery: the stress of staying put after Hurricane Sandy."](https://doi.org/10.1007/s10584-021-03069-1){:target="_blank"} _Climatic Change_ 165, 59.
 
-Jan 30
-: **Lecture**{: .label .label-lecture } Overview of human-environment interactions through a systems lens
+Class A
+: **Lecture**{: .label .label-lecture } Natural hazards governance in the context of climate change mitigation and adaptation
 : **Questions 1**{: .label .label-hw } Reading questions due
 
-Feb 1
-: **Discussion 1**{: .label .label-disc } Human-environment interactions
+Class B
+: **Discussion 1**{: .label .label-disc }
