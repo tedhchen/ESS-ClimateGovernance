@@ -18,36 +18,28 @@ description: >-
 ---
 
 ## Description
-This is a course about how humans shape and are in turn shaped by the environment. We will primarily focus on the environmental governance, politics, and policy-making side of human-environment interactions. In approaching this topic, we will emphasize taking a systems approach to understanding human-environment interactions as complex socioecological systems. The course is organized around hands-on learning, with considerable time and effort put toward individual and team-based production of policy and community engagement projects.
+This is an undergraduate-level course on the politics of climate change governance. Here, we will explore how climate mitigation and adaptation decisions are made and their consequences for different segments of society. In approaching these topics, we will emphasize taking a systems approach to understanding the policy process as a component of a complex socioecological system.
+
+In this course, we will practice being informed consumers of social scientific research, with considerable course efforts put toward individual and team-based critiques and applications of research findings and methodology.
 
 ### Target Learning Outcomes
-At the end of this course, students will:
-- be familiar with historical and contemporary issues in human-environment interactions
-- be able to identify different components of a policy system
-- have practiced analyzing a complex policy issue using a complex systems perspective
-- have produced a policy memo in an environmental issue area
-- have engaged with community members from outside of our classroom
-
-### Mason Impact (Impact + Civic Engagement and Community Learning, CECiL)
-This course takes a problem-based learning approach. As we will see during this semester, human development is integrally linked to our interactions with the environment. Societal change is almost always coupled with both intentional and unintentional transformations in global ecosystems. Efforts to promote sustainable development (i.e. bringing about positive transformations or mitigating negative ones) requires us to be able to identify the different components of complex socioecological systems and the intricate ways they interact with one another. 
-
-During the semester you will engage in projects that will require thinking through the lens of socioecological systems in order to diagnose human-environment interactions at various scales. For each project, you will prepare a public-facing document on the topic, analyzing possible approaches, and present it. You will be required to base your research on citations that are of sufficient quality that they could be used by a decision-maker in credibly making the claim to others. 
-
-Various class activities such as in-class exercises and invited speakers will support you as you research and write the assignments. Through these course components, the following learning outcomes will be met:
--  Understanding how to conduct research and use knowledge to address environmental issues of societal importance;
--  Exploring different perspectives of stakeholders and being able to relate how their viewpoints affect social responses to environmental issues;
--  Engaging in inquiry about topics of importance to environmental protection in a series of increasingly challenging assignments.
+By the end of this course, students will:
+- be familiar with key contemporary and historical issues and actors in climate governance
+- be able to identify different components and their heterogenous interests within a policy system 
+- have analyzed climate governance and policy issues using a complex systems perspective
+- have critiqued and applied state-of-the-art social scientific research
+- have produced a piece of research-oriented writing in a climate governance area
 
 ## Course Expectations
 
 ### Course Organization
-This course is held in-person twice a week on Mondays and Wednesdays. Generally speaking, Mondays will be lecture-based while Wednesdays will be lab-based (e.g. exercises and discussions), but we will move things around to accomodate potential guest speakers and other kinds of outside engagement. 
+This course is held in-person twice a week on Mondays and Wednesdays. Generally speaking, Mondays will be lecture-based while Wednesdays will be lab-based (e.g. exercises and discussions), but we will move things around to accomodate potential guest speakers or other opportunities that may arise. 
 
-### Students can expect from the instructors
--  Ted is trained in political science, and he has additional specializations in environmental social science and network science. Meaghan is trained in education, and is currently pursuing a graduate degree in environmental social science. How we approach the class topics is naturally influenced by our backgrounds, but we will strive to present a wide variety of materials that shows the breadth of environmental social science research.
-- We will respect students’ backgrounds and strive to make the course an inclusive learning environment by following the course [Code of Conduct]({{ site.baseurl }}{% link conduct.md %}).
+### Students can expect from the instructor
+-  I am trained in political science, and have additional specializations in environmental social science and network science. How I approach the class topics is naturally influenced by my background, but I will strive to present a wide variety of materials that shows the breadth of climate governance research.
+- I will respect students’ backgrounds and strive to make the course an inclusive learning environment by following the course [Code of Conduct]({{ site.baseurl }}{% link conduct.md %}).
 
-### We expect from students
+### I expect from students
 - Commitment to hands-on learning. In addition to lectures, this course is designed with discussions and projects in mind.
 - Respect for everyone involved with the course (i.e. students, instructors, guest lecturers), and follow the course [Code of Conduct]({{ site.baseurl }}{% link conduct.md %}). It is especially important to understand that the class will comprise individuals from diverse and multidisciplinary backgrounds. Communication and patience are paramount.
 - Basics: do the prep; come to class; contribute to team work.
@@ -55,7 +47,7 @@ This course is held in-person twice a week on Mondays and Wednesdays. Generally 
 ## Assessment
 Here is a summary of the course assignments and their point worth. More information on these tasks can be found on the [assignments page]({{ site.baseurl }}{% link assignments.md %}). 
 
-Including opportunities for "bonus" points to be determined at a later date, students can obtain up to 105 points during the course. Because the points-to-grade conversion (chart below) is designed for an 100-point scale, students essentially have the opportunity for 5 extra credit points.
+Students can obtain up to 105 points during the course. Because the points-to-grade conversion (chart below) is designed for a 100-point scale, students essentially have the opportunity for 5 extra credit points.
 
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -77,34 +69,24 @@ Including opportunities for "bonus" points to be determined at a later date, stu
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Course participation</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">25</td>
-  </tr>
-  <tr>
     <td class="tg-0pky">Reading questions</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">15</td>
+    <td class="tg-c3ow">Throughout the course</td>
+    <td class="tg-c3ow">24</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">Discussion sessions</td>
+    <td class="tg-c3ow">Throughout the course</td>
+    <td class="tg-c3ow">24</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mapping Mason project</td>
-    <td class="tg-c3ow">Week 4</td>
-    <td class="tg-c3ow">15</td>
+    <td class="tg-0pky">In-class exercises and write-ups</td>
+    <td class="tg-c3ow">Weeks 4, 6, 8, 13</td>
+    <td class="tg-c3ow">24</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Systems modeling report</td>
-    <td class="tg-c3ow">Week 7</td>
-    <td class="tg-c3ow">20</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Policy Memos</td>
+    <td class="tg-0pky">Final written project and presentation</td>
     <td class="tg-c3ow">Week 14</td>
-    <td class="tg-c3ow">25</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">"Bonus" points</td>
-    <td class="tg-c3ow">TBD</td>
-    <td class="tg-c3ow">5</td>
+    <td class="tg-c3ow">33</td>
   </tr>
 </tbody>
 </table>
@@ -199,5 +181,5 @@ Here is how course scores correspond to letter grades. Your total points will be
 </table>
 
 ## Acknowledgements
-This course draws extensively from previous versions of EVPP 336 (George Mason University) taught by Karen Akerlof, Susan A. Crate, and Vivek Prasad.
+
 
