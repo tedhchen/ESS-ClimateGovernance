@@ -14,36 +14,33 @@ description: Outline of course project resources.
 1. TOC
 {:toc}
 
-## Class Participation
-There are two components to participation points worth a total of 25 points.
+## Reading questions
+Short reading questions will be assigned for weeks 2-13. These will be basic questions (i.e. if you do the readings you will know the answers). Each week's questions will be assigned on Thursday the week prior and are due before 10am on Monday. 
 
-- In weeks 2, 7, 8, and 10, you will receive points for participating in the Wednesday discussion labs (i.e. submitting discussion questions before the session or speaking during the session). Each session is worth 5 points for a total of 20.
-- For the policy memo project (see below), you will be given an effort score by your group members. This is worth up to 5 points. Only effort matters to grading, and the instructors will review all peer scores.
+Each week's questions will be worth 2 points for a total of 24 points.
 
-## Reading Questions
-Short reading questions will be assigned for weeks 2, 3, and 5-12. These will be basic questions (i.e. if you do the readings you will know the answers). Each week's questions will be assigned on Thursday the week prior and are due before 8am on Monday. Each week's questions will be worth 1.5 points for a total of 15 points.
+## Discussion questions
+In weeks 2, 4, 6, 8, 10, and 13, we will have discussion sessions during the Wednesday class slot. In these discussion sessions, we will critically review social scientific research on the week's climate governance topic. Questions to facilitate these discussions will be assigned during class on Monday of the same week. 
 
-## Mapping Mason Project
-As a class, we will create an online map of how and where Mason students, faculty, and staff interact with their environment. This includes both the things that we can see (e.g. recycling and waste) and aspects that can be less visibly apparent (e.g. air and water pollution).
+Discussion for each session is worth 4 points for a total of 24 points.
 
-Either by yourself or with a partner, you will identify a place on Mason's Fairfax campus where people have a direct or indirect interaction with their environment. The interaction can either be positive or negative. In a short summary, you will identify the social reasons the interaction occurs and the human and environmental consequences.
- 
-Your map entries are due before 8am on Feb 13. During one class in week 4, you will walk your classmates to the location where the interaction occurs and present your findings.
 
-This project is worth 15 points. A detailed breakdown is available in the grading rubric.
+## In-class exercises and write-ups
+In weeks 3, 5, 7, and 12, we will have in-class exercises during the Wednesday class slot. In these sessions, we will, both independently and in groups, apply lecture and reading materials to produce knowledge that can be used in some part of the climate policy process. Following each in-class exercise, you will have a short writing task designed to distill what you learned. Your write-ups are due before 10am on the Wednesday following the in-class exercise. 
 
-## Systems Modeling Report
-When considering human-environment interactions, we will emphasize the importance of doing so through a _systems_ lens, a concept we will focus on during weeks 5-7. To further familiarize you with this concept, you will analyze a complex policy outcome provided by the instructors using a combination of a short written report and a [LOOPY](https://ncase.me/loopy/){:target="_blank"} model. 
+Each exercise and write-up is worth 6 points for a total of 24 points. Detailed breakdowns are available in the grading rubric for each exercise.
 
-We will have a discussion lab about your results on Wednesday Mar 8. The report and model are due before 8am on Mar 8.
+## Final research-based project
+The capstone project for this course will be a written assignment emphasizing student production of research in one of three formats described below. You will complete the project in teams of 2-4 students. To practice scientific communication, you will present your projects in week 14 of the class.
 
-This project is worth 20 points. A detailed breakdown is available in the grading rubric.
+This project, including both written and presentation portions, is worth 33 points. A detailed breakdown is available in the grading rubric.
 
-## Policy Memo Project
-The capstone project for this course is a policy memo on an environmental issue broadly defined to be related to this course. The topic will be decided in consulation with the instructors. 
+### Research design
+An implementable research design on a research question (academic or otherwise) chosen in consultation with the instructor.
 
-You will complete the project in teams of 5-6 students through a combination of individual and group tasks that are due during weeks 12-14. To satisfy the Mason Impact and CECiL components of this course, you will present your policy recommendations to a relevant external audience during week 14.
+### Policy memo
+A policy memo on an climate governance issue chosen in consulation with the instructor.
 
-This project is worth 25 points. A detailed breakdown is available in the grading rubric.
-
+### Scientific literature review
+A review of the scientific literature on some climate politics or governance research topic chosen in consultation with the instructor.
 
