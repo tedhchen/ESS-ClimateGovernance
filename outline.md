@@ -21,12 +21,12 @@ The course outline is subject to change to adapt to contingencies that may arise
 .tg .tg-za14{border-color:inherit;text-align:left;vertical-align:bottom}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<table class="tg" style="undefined;table-layout: fixed; width: 680px">
 <colgroup>
 <col style="width: 47px">
 <col style="width: 61px">
-<col style="width: 356px">
-<col style="width: 286px">
+<col style="width: 357px">
+<col style="width: 215px">
 </colgroup>
 <thead>
   <tr>
@@ -65,7 +65,7 @@ The course outline is subject to change to adapt to contingencies that may arise
     <td class="tg-za14">5</td>
     <td class="tg-za14">Feb. 13</td>
     <td class="tg-za14">Public opinion surrounding climate politics*</td>
-    <td class="tg-eyz2"><span style="background-color:#D9D2E9">Climate communication experiment exercise</span></td>
+    <td class="tg-eyz2"><span style="background-color:#D9D2E9">Climate communication exercise</span></td>
   </tr>
   <tr>
     <td class="tg-za14">6</td>
@@ -107,7 +107,7 @@ The course outline is subject to change to adapt to contingencies that may arise
     <td class="tg-za14">12</td>
     <td class="tg-za14">Apr. 9</td>
     <td class="tg-za14">Sources of climate obstruction*</td>
-    <td class="tg-eyz2"><span style="background-color:#D9D2E9">Designing climate obstruction exercise</span></td>
+    <td class="tg-eyz2"><span style="background-color:#D9D2E9">Climate obstruction exercise</span></td>
   </tr>
   <tr>
     <td class="tg-za14">13</td>
