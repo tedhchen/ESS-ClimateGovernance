@@ -21,12 +21,12 @@ The course outline is subject to change to adapt to contingencies that may arise
 .tg .tg-za14{border-color:inherit;text-align:left;vertical-align:bottom}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 885px">
+<table class="tg" style="undefined;table-layout: fixed; width: 778px">
 <colgroup>
 <col style="width: 47px">
-<col style="width: 80px">
-<col style="width: 415px">
-<col style="width: 343px">
+<col style="width: 63px">
+<col style="width: 379px">
+<col style="width: 289px">
 </colgroup>
 <thead>
   <tr>
@@ -46,7 +46,7 @@ The course outline is subject to change to adapt to contingencies that may arise
   <tr>
     <td class="tg-za14">2</td>
     <td class="tg-za14">Jan. 23</td>
-    <td class="tg-za14">Topic Focus: Governance surrounding Climate-induced Hazards*</td>
+    <td class="tg-za14">Focus: Governance surrounding Climate-induced Hazards*</td>
     <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ The course outline is subject to change to adapt to contingencies that may arise
     <td class="tg-za14">5</td>
     <td class="tg-za14">Feb. 13</td>
     <td class="tg-za14">Public opinion surrounding climate politics*</td>
-    <td class="tg-eyz2"><span style="background-color:#D9D2E9">Climate communication experimental design exercise</span></td>
+    <td class="tg-eyz2"><span style="background-color:#D9D2E9">Climate communication experiment exercise</span></td>
   </tr>
   <tr>
     <td class="tg-za14">6</td>
@@ -76,7 +76,7 @@ The course outline is subject to change to adapt to contingencies that may arise
   <tr>
     <td class="tg-za14">7</td>
     <td class="tg-za14">Feb. 27</td>
-    <td class="tg-za14">Topic Focus: Fairness and justice in climate adaptation*</td>
+    <td class="tg-za14">Focus: Fairness and justice in climate adaptation*</td>
     <td class="tg-eyz2"><span style="background-color:#D9D2E9">Identifying mechanisms exercise</span></td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ The course outline is subject to change to adapt to contingencies that may arise
   <tr>
     <td class="tg-za14">13</td>
     <td class="tg-za14">Apr. 16</td>
-    <td class="tg-za14">Topic focus: The role of technology in climate mitigation*</td>
+    <td class="tg-za14">Focus: The role of technology in climate mitigation*</td>
     <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
   </tr>
   <tr>
