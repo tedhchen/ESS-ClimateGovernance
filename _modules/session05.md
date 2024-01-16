@@ -15,7 +15,7 @@ Readings
 
 : Sarathchandra, D. et al. 2020. ["Trust/distrust judgments and perceptions of climate science: A research note on skeptics’ rationalizations."](https://doi.org/10.1177/0963662519886089){:target="_blank"} _Public Understanding of Science_ 29(1): 53-60.
 
-: **Recommended**{: .label .label-optional } Chinn, S. et al. 2020. ["Politicization and Polarization in Climate Change News Content, 1985-2017."](https://doi.org/10.1177/107554701990029){:target="_blank"} _Science Communication_ 42(1): 112-129.
+: **Recommended**{: .label .label-optional } Chinn, S. et al. 2020. ["Politicization and Polarization in Climate Change News Content, 1985-2017."](https://doi.org/10.1177/1075547019900290){:target="_blank"} _Science Communication_ 42(1): 112-129.
 
 Class
 : **Lecture**{: .label .label-lecture } Determinants of public attitudes toward climate mitigation and adaptation
