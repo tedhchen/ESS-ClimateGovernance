@@ -14,8 +14,6 @@ Readings
 
 : **Recommended**{: .label .label-optional } Underdal, A. 2017 ["Climate Change and International Relations (After Kyoto)."](https://doi.org/10.1146/annurev-polisci-052715-111713){:target="_blank"} _Annual Review of Political Science_ 20, 169-188.
 
-Class A
+Class:
 : **Lecture**{: .label .label-lecture } Introductions and Course Overview
-
-Class B
 : **In-class Exercise 0**{: .label .label-lab } Pre-class Baseline Questionnaire

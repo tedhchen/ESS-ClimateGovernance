@@ -22,11 +22,11 @@ In this course, we will practice being informed consumers of social scientific r
 
 ## Basics
 
-**Meeting Times:** Mondays and Wednesdays, time TBD
+**Meeting Times:** Tues. 4:30-7:10pm
 
-**Meeting Locations:** TBD
+**Meeting Locations:** David King 2053
 
-**Office Hours:** David King 3036, Time TBD
+**Office Hours:** David King 3036, Wed. 4-5pm and by appointment
 
 **Instructors:**
 {{ site.staffers | where: 'name', 'Ted Hsuan Yun Chen' }}

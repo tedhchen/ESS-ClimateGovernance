@@ -14,9 +14,7 @@ Readings
 
 : Holder, F. et al. 2023. ["Climate obstruction and Facebook advertising: how a sample of climate obstruction organizations use social media to disseminate discourses of delay."](https://doi.org/10.1007/s10584-023-03494-4){:target="_blank"} _Climatic Change_ 176, 16.
 
-Class A
+Class:
 : **Lecture**{: .label .label-lecture } Coordinated and uncoordinated climate obstruction
-: **Questions 11**{: .label .label-hw } Reading questions due
-
-Class B
 : **In-class Exercise 4**{: .label .label-lab } Designing climate obstruction exercise
+: **Questions 11**{: .label .label-hw } Reading questions due

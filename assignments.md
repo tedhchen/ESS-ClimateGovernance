@@ -15,18 +15,18 @@ description: Outline of course project resources.
 {:toc}
 
 ## Reading questions
-Short reading questions will be assigned for weeks 2-13. These will be basic questions (i.e. if you do the readings you will know the answers). Each week's questions will be assigned on Thursday the week prior and are due before 10am on Monday. 
+Short reading questions will be assigned for weeks 2-13. These will be basic questions (i.e. if you do the readings you will know the answers). Each week's questions will be assigned on Thursday the week prior and are due before 10am on Tuesday. 
 
 Each week's questions will be worth 2 points for a total of 24 points.
 
 ## Discussion questions
-In weeks 2, 4, 6, 8, 10, and 13, we will have discussion sessions during the Wednesday class slot. In these discussion sessions, we will critically review social scientific research on the week's climate governance topic. Questions to facilitate these discussions will be assigned during class on Monday of the same week. 
+In weeks 2, 4, 6, 8, 10, and 13, we will have discussion sessions during class. In these discussion sessions, we will critically review social scientific research on the week's climate governance topic. Questions to facilitate these discussions will be assigned on Thursday the week prior. 
 
 Discussion for each session is worth 4 points for a total of 24 points.
 
 
 ## In-class exercises and write-ups
-In weeks 3, 5, 7, and 12, we will have in-class exercises during the Wednesday class slot. In these sessions, we will, both independently and in groups, apply lecture and reading materials to produce knowledge that can be used in some part of the climate policy process. Following each in-class exercise, you will have a short writing task designed to distill what you learned. Your write-ups are due before 10am on the Wednesday following the in-class exercise. 
+In weeks 3, 5, 7, and 12, we will have in-class exercises. In these sessions, we will, both independently and in groups, apply lecture and reading materials to produce knowledge that can be used in some part of the climate policy process. Following each in-class exercise, you will have a short writing task designed to distill what you learned. Your write-ups are due before 10am on the Monday the week following the exercise. 
 
 Each exercise and write-up is worth 6 points for a total of 24 points. Detailed breakdowns are available in the grading rubric for each exercise.
 

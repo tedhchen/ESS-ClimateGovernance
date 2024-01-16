@@ -19,9 +19,7 @@ Readings
 : **Recommended**{: .label .label-optional } Fünfgeld, H. 2015. ["Facilitating local climate change adaptation through transnational municipal networks"](https://doi.org/10.1016/j.cosust.2014.10.011){:target="_blank"} _Current Opinions in Environmental Sustainability_ 12, 67-73.
 
 
-Class A
+Class:
 : **Lecture**{: .label .label-lecture } Transnational actors
-: **Questions 10**{: .label .label-hw } Reading questions due
-
-Class B
 : **Final project**{: .label .label-present } Working lab
+: **Questions 10**{: .label .label-hw } Reading questions due

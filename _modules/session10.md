@@ -20,9 +20,7 @@ Readings
 
 : **Recommended**{: .label .label-optional } Aklin, M., Mildenberger, M. 2023. ["Reply: The Persistent Absence of Empirical Evidence for Free-Riding in Global Climate Politics."](https://doi.org/10.1162/glep_c_00700){:target="_blank"} _Global Environmental Politics_ 23(1): 145-151.
 
-Class A
+Class:
 : **Lecture**{: .label .label-lecture } Effecting change from below: grassroots social movements
-: **Questions 9**{: .label .label-hw } Reading questions due
-
-Class B
 : **Discussion 5**{: .label .label-disc }
+: **Questions 9**{: .label .label-hw } Reading questions due

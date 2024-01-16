@@ -14,9 +14,7 @@ Readings
 
 : Koslov, L. et al. 2021. ["When rebuilding no longer means recovery: the stress of staying put after Hurricane Sandy."](https://doi.org/10.1007/s10584-021-03069-1){:target="_blank"} _Climatic Change_ 165, 59.
 
-Class A
+Class:
 : **Lecture**{: .label .label-lecture } Natural hazards governance in the context of climate change mitigation and adaptation
-: **Questions 1**{: .label .label-hw } Reading questions due
-
-Class B
 : **Discussion 1**{: .label .label-disc }
+: **Questions 1**{: .label .label-hw } Reading questions due
