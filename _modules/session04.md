@@ -1,5 +1,5 @@
 ---
-title: Week 4
+title: Week 4 (Feb. 6)
 type: outline
 ---
 

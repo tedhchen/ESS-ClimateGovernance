@@ -1,5 +1,5 @@
 ---
-title: Week 7
+title: Week 7 (Feb. 27)
 type: outline
 ---
 

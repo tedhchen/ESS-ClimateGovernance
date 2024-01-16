@@ -1,5 +1,5 @@
 ---
-title: Week 3
+title: Week 3 (Jan. 30)
 type: outline
 ---
 
