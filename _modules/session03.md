@@ -16,7 +16,7 @@ Readings
 
 : **Recommended**{: .label .label-optional } Newman, M.E.J. 2011. ["Resource Letter CS-1: Complex Systems."](https://doi.org/10.1119/1.3590372){:target="_blank"} _American Journal of Physics_ 79, 800.
 
-Class:
+Class
 : **Lecture**{: .label .label-lecture } Introduction to complexity and systems approaches
 : **In-class Exercise 1**{: .label .label-lab } Systems thinking exercise
 : **Questions 2**{: .label .label-hw } Reading questions due

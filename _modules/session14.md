@@ -6,5 +6,5 @@ type: outline
 Overview
 : Final project presentation week
 
-Class:
+Class
 : **Final project**{: .label .label-present } Presentations

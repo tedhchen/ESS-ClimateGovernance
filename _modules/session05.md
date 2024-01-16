@@ -17,7 +17,7 @@ Readings
 
 : **Recommended**{: .label .label-optional } Chinn, S. et al. 2020. ["Politicization and Polarization in Climate Change News Content, 1985-2017."](https://doi.org/10.1177/107554701990029){:target="_blank"} _Science Communication_ 42(1): 112-129.
 
-Class:
+Class
 : **Lecture**{: .label .label-lecture } Determinants of public attitudes toward climate mitigation and adaptation
 : **In-class Exercise 2**{: .label .label-lab } Climate communication experimental design exercise
 : **Questions 4**{: .label .label-hw } Reading questions due

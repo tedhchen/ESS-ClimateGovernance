@@ -14,7 +14,7 @@ Readings
 
 : **Recommended**{: .label .label-optional } Marjanac, S., Patton, L. 2018. ["Extreme weather event attribution science and climate change litigation: an essential step in the causal chain?"](https://doi.org/10.1080/02646811.2018.1451020){:target="_blank"} _Journal of Energy & Natural Resources Law_ 36(3): 265-298.
 
-Class:
+Class
 : **Lecture**{: .label .label-lecture } International regimes and environmental governance
 : **Final project**{: .label .label-present } Demonstration and working lab
 : **Questions 8**{: .label .label-hw } Reading questions due

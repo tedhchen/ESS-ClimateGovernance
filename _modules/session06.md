@@ -18,7 +18,7 @@ Readings
 
 : **Recommended**{: .label .label-optional } Mangonnet, J. et al. 2022. ["Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas"](https://doi.org/10.1086/718978){:target="_blank"} _Journal of Politics_ 84(3): 1453-1468.
 
-Class:
+Class
 : **Lecture**{: .label .label-lecture } Climate change politics and elite political competition
 : **Discussion 3**{: .label .label-disc }
 : **Questions 5**{: .label .label-hw } Reading questions due

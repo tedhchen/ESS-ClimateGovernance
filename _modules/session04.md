@@ -18,7 +18,7 @@ Readings
 
 : **Recommended**{: .label .label-optional } Ylä-Anttila, T. et al. 2018. ["Climate change policy networks: Why and how to compare them across countries."](https://doi.org/10.1016/j.erss.2018.06.020){:target="_blank"} _Energy Research & Social Science_ 45, 258-265. 
 
-Class:
+Class
 : **Lecture**{: .label .label-lecture } The policy process and domestic political institutions
 : **Discussion 2**{: .label .label-disc }
 : **Questions 3**{: .label .label-hw } Reading questions due
