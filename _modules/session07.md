@@ -14,7 +14,7 @@ Readings
 
 : Kartha, S. et al. 2018. ["Cascading biases against poorer countries."](https://doi.org/10.1038/s41558-018-0152-7){:target="_blank"} _Nature Climate Change_ 8, 348-349.
 
-: **Recommended**{: .label .label-optional } Harlan S.L. et al. 2015. "Climate Justice and Inequality," in Dunlap, R.E., Brulle, R.J. eds., _Climate Change and Society: Sociological Perspectives_. Oxford University Press. Chapter 5.
+: **Recommended**{: .label .label-optional } Harlan S.L. et al. 2015. ["Climate Justice and Inequality"](https://doi.org/10.1093/acprof:oso/9780199356102.003.0005){:target="_blank"}, in Dunlap, R.E., Brulle, R.J. eds., _Climate Change and Society: Sociological Perspectives_. Oxford University Press. Chapter 5.
 
 Class
 : **Lecture**{: .label .label-lecture } The origins of different types of climate justice
