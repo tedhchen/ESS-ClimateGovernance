@@ -13,7 +13,7 @@ Readings
 
 : Wagner, G. 2022. ["Green Moral Hazards."](https://doi.org/10.1080/21550085.2021.1940449){:target="_blank"} _Ethics, Policy & Environment_ 25,(3): 264-280.
 
-: **Recommended**{: .label .label-optional } Dechezleprêtre, A. et al. 2011. ["Invention and Transfer of Climate Change–Mitigation Technologies: A Global Analysis."](https://doi.org/10.1093/reep/req023) _Review of Environmental Economics and Policy_ 5(1): 109-130.
+: **Recommended**{: .label .label-optional } Dechezleprêtre, A. et al. 2011. ["Invention and Transfer of Climate Change–Mitigation Technologies: A Global Analysis."](https://doi.org/10.1093/reep/req023){:target="_blank"} _Review of Environmental Economics and Policy_ 5(1): 109-130.
 
 Class
 : **Lecture**{: .label .label-lecture } Opportunities and limitations of technological growth to climate mitigation
