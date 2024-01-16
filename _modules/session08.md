@@ -19,6 +19,6 @@ Readings
 : **Recommended**{: .label .label-optional } Boulianne, S. et al. 2020. ["“School Strike 4 Climate”: Social Media and the International Youth Protest on Climate Change."](http://dx.doi.org/10.17645/mac.v8i2.2768){:target="_blank"} _Media and Communication_ 8(2).
 
 Class
-: **Lecture**{: .label .label-lecture } Public attitudes toward environmental protection and climate mitigation
+: **Lecture**{: .label .label-lecture } Effecting change from below: grassroots social movements
 : **Discussion 4**{: .label .label-disc }
 : **Questions 7**{: .label .label-hw } Reading questions due

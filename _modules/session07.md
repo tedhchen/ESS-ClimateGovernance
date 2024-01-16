@@ -17,6 +17,6 @@ Readings
 : **Recommended**{: .label .label-optional } Harlan S.L. et al. 2015. "Climate Justice and Inequality," in Dunlap, R.E., Brulle, R.J. eds., _Climate Change and Society: Sociological Perspectives_. Oxford University Press. Chapter 5.
 
 Class
-: **Lecture**{: .label .label-lecture } Public attitudes toward environmental protection and climate mitigation
+: **Lecture**{: .label .label-lecture } The origins of different types of climate justice
 : **In-class Exercise 3**{: .label .label-lab } Identifying mechanisms exercise
 : **Questions 6**{: .label .label-hw } Reading questions due
