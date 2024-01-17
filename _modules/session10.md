@@ -10,7 +10,7 @@ Readings
 
 : Young, O.R. 2018. ["Research strategies to assess the effectiveness of international environmental regimes."](https://doi.org/10.1038/s41893-018-0132-y){:target="_blank"} _Nature Sustainability_ 1, 461-465.
 
-: Axelrod, M. ["Climate Change and Global Fisheries Management: Linking Issues to Protect Ecosystems or to Save Political Interests?"](https://doi.org/10.1162/GLEP_a_00069){:target="_blank"} _Global Environmental Politics_ 11(3): 64-84.
+: Axelrod, M. 2011. ["Climate Change and Global Fisheries Management: Linking Issues to Protect Ecosystems or to Save Political Interests?"](https://doi.org/10.1162/GLEP_a_00069){:target="_blank"} _Global Environmental Politics_ 11(3): 64-84.
 
 : Aklin, M., Mildenberger, M. 2020. ["Prisoners of the Wrong Dilemma: Why Distributive Conflict, Not Collective Action, Characterizes the Politics of Climate Change."](https://doi.org/10.1162/glep_a_00578){:target="_blank"} _Global Environmental Politics_ 20(4): 4-27.
 
