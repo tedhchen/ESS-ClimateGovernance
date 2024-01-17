@@ -14,7 +14,7 @@ Readings
 
 : Vu, H.T. et al. 2020. ["Who Leads the Conversation on Climate Change?: A Study of a Global Network of NGOs on Twitter."](https://doi.org/10.1080/17524032.2019.1687099){:target="_blank"} _Environmental Communication_ 14(4):450-464.
 
-: **Recommended**{: .label .label-optional } Vu, H.T. et al. 2021. ["Social Media and Environmental Activism: Framing Climate Change on Facebook by Global NGOs."](https://doi.org/10.1080/17524032.2019.1687099){:target="_blank"} _Science Communication_ 43(1):91-115.
+: **Recommended**{: .label .label-optional } Vu, H.T. et al. 2021. ["Social Media and Environmental Activism: Framing Climate Change on Facebook by Global NGOs."](https://doi.org/10.1177/1075547020971644){:target="_blank"} _Science Communication_ 43(1):91-115.
 
 : **Recommended**{: .label .label-optional } Fünfgeld, H. 2015. ["Facilitating local climate change adaptation through transnational municipal networks"](https://doi.org/10.1016/j.cosust.2014.10.011){:target="_blank"} _Current Opinions in Environmental Sustainability_ 12, 67-73.
 
