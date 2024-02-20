@@ -8,7 +8,7 @@ Topic
 
 Readings
 
-: Gruber, D.L. et al. 2021. ["`Time to Wake Up': Climate change advocacy in a polarized Congress, 1996-2015"](https://doi.org/10.1080/09644016.2020.1786333){:target="_blank"} _Enviromental Politics_ 30(4): 538-558.
+: Guber, D.L. et al. 2021. ["`Time to Wake Up': Climate change advocacy in a polarized Congress, 1996-2015"](https://doi.org/10.1080/09644016.2020.1786333){:target="_blank"} _Enviromental Politics_ 30(4): 538-558.
 
 : Ladrech, R., Little, C. 2019. ["Drivers of political parties’ climate policy preferences: lessons from Denmark and Ireland."](https://doi.org/10.1080/09644016.2019.1625157){:target="_blank"} _Environmental Politics_ 28(6): 1017-1038.
 
