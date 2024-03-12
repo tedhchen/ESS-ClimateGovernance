@@ -39,7 +39,7 @@ This project, including both written and presentation portions, is worth 33 poin
 An implementable research design on a research question (academic or otherwise) chosen in consultation with the instructor.
 
 ### Policy memo
-A policy memo on an climate governance issue chosen in consulation with the instructor.
+A policy memo on a climate governance issue chosen in consultation with the instructor.
 
 ### Scientific literature review
 A review of the scientific literature on some climate politics or governance research topic chosen in consultation with the instructor.
