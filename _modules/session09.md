@@ -22,5 +22,5 @@ Readings
 
 Class
 : **Lecture**{: .label .label-lecture } International regimes and environmental governance
-: **Discussion 4**{: .label .label-disc }
+: **Discussion 4**{: .label .label-disc } How to derive testable implications from theory
 : **Questions 8**{: .label .label-hw } Reading questions due

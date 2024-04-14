@@ -16,5 +16,5 @@ Readings
 
 Class
 : **Lecture**{: .label .label-lecture } Natural hazards governance in the context of climate change mitigation and adaptation
-: **Discussion 1**{: .label .label-disc }
+: **Discussion 1**{: .label .label-disc } Working through concepts and measurement questions in climate adaptation research
 : **Questions 1**{: .label .label-hw } Reading questions due

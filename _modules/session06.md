@@ -20,5 +20,5 @@ Readings
 
 Class
 : **Lecture**{: .label .label-lecture } Climate change politics and elite political competition
-: **Discussion 3**{: .label .label-disc }
+: **Discussion 3**{: .label .label-disc } Linking elite political competition over climate policy to mass public opinion and climate communication
 : **Questions 5**{: .label .label-hw } Reading questions due

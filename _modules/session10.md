@@ -21,5 +21,5 @@ Readings
 
 Class
 : **Lecture**{: .label .label-lecture } Transnational actors
-: **Discussion 5**{: .label .label-disc }
+: **Discussion 5**{: .label .label-disc } Pros, cons, and challenges of transnational governance
 : **Questions 9**{: .label .label-hw } Reading questions due

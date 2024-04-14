@@ -20,5 +20,5 @@ Readings
 
 Class
 : **Lecture**{: .label .label-lecture } The policy process and domestic political institutions
-: **Discussion 2**{: .label .label-disc }
+: **Discussion 2**{: .label .label-disc } Political institutions as causal mechanisms of policy outcomes
 : **Questions 3**{: .label .label-hw } Reading questions due

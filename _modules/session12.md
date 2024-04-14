@@ -20,5 +20,5 @@ Readings
 
 Class
 : **Lecture**{: .label .label-lecture } Effecting change from below: grassroots social movements
-: **Discussion 6**{: .label .label-disc }
+: **Discussion 6**{: .label .label-disc } Thinking through the impacts of transgressive climate activism on ourselves
 : **Questions 11**{: .label .label-hw } Reading questions due
