@@ -3,19 +3,18 @@ title: Week 13 (Apr. 16)
 type: outline
 ---
 
-Topics
-: Topic focus: The role of technology in climate mitigation and adaptation
+Overview
+: Sources of climate obstruction
 
 Readings
 
-: Introne, J. et al. 2013. ["Solving Wicked Social Problems with Socio-computational Systems."](https://doi.org/10.1007/s13218-012-0231-2){:target="_blank"} _KI - Künstliche Intelligenz_ 27, 45-52.
+: Ard, K. et al. 2017. ["Another avenue of action: an examination of climate change countermovement industries’ use of PAC donations and their relationship to Congressional voting over time."](https://doi.org/10.1080/09644016.2017.1366291){:target="_blank"} _Environmental Politics_ 26(6): 1107-1131.
 
+: Brulle, R.J. et al. 2021 ["Obstructing action: foundation funding and US climate change counter-movement organizations."](https://doi.org/10.1007/s10584-021-03117-w){:target="_blank"} _Climatic Change_ 166, 17.
 
-: Wagner, G. 2022. ["Green Moral Hazards."](https://doi.org/10.1080/21550085.2021.1940449){:target="_blank"} _Ethics, Policy & Environment_ 25,(3): 264-280.
-
-: **Recommended**{: .label .label-optional } Dechezleprêtre, A. et al. 2011. ["Invention and Transfer of Climate Change–Mitigation Technologies: A Global Analysis."](https://doi.org/10.1093/reep/req023){:target="_blank"} _Review of Environmental Economics and Policy_ 5(1): 109-130.
+: Holder, F. et al. 2023. ["Climate obstruction and Facebook advertising: how a sample of climate obstruction organizations use social media to disseminate discourses of delay."](https://doi.org/10.1007/s10584-023-03494-4){:target="_blank"} _Climatic Change_ 176, 16.
 
 Class
-: **Lecture**{: .label .label-lecture } Opportunities and limitations of technological growth to climate mitigation
-: **Discussion 6**{: .label .label-disc }
+: **Lecture**{: .label .label-lecture } Coordinated and uncoordinated climate obstruction
+: **In-class Exercise 4**{: .label .label-lab } Designing climate obstruction exercise
 : **Questions 12**{: .label .label-hw } Reading questions due
