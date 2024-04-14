@@ -21,5 +21,5 @@ Readings
 
 Class
 : **Lecture**{: .label .label-lecture } Transnational actors
-: **Discussion 4**{: .label .label-disc }
+: **Discussion 5**{: .label .label-disc }
 : **Questions 9**{: .label .label-hw } Reading questions due
