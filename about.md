@@ -84,7 +84,7 @@ Students can obtain up to 102 points during the course. Because the points-to-gr
     <td class="tg-c3ow">24</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Final written project and presentation</td>
+    <td class="tg-0pky">Final research-based project</td>
     <td class="tg-c3ow">Week 14 & end of term</td>
     <td class="tg-c3ow">30</td>
   </tr>
