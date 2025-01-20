@@ -181,5 +181,5 @@ Here is how course scores correspond to letter grades. Your total points will be
 </table>
 
 ## Acknowledgements
-This course design has been improved by discussions with Karen Akerlof, Jeremy Campbell, Meaghan Caruso, Laina Lockett, Andrew Wingfield, and Tuomas Ylä-Anttila.
+This course design has been improved by discussions with KL Akerlof, Jeremy Campbell, Meaghan Caruso, Laina Lockett, Andrew Wingfield, and Tuomas Ylä-Anttila.
 
