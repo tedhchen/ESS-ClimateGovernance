@@ -14,6 +14,9 @@ description: Outline of course project resources.
 1. TOC
 {:toc}
 
+## Overview
+This page contains an overview of our course assignments and draft versions of the actual assignments. The final versions of each assignment will be posted on our course management system, and are subject to change from the ones posted here.
+
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
@@ -59,22 +62,22 @@ description: Outline of course project resources.
 ## Reading questions
 Short reading questions will be assigned for weeks 2-13. These will be basic questions (i.e. if you do the readings you will know the answers). Each week's questions will be assigned by Thursday the week prior and are due before noon on Tuesday. 
 
-Each week's questions will be worth 2 points for a total of 24 points.
+Each week's questions will be worth 2 points for a total of 24 points. [Draft of weekly reading questions]({{ site.baseurl }}{% link assets/evpp436_questions.pdf %}) (subject to change).
 
 ## Discussion questions
-Discussion for each session is worth 4 points for a total of 24 points.
 In weeks 2, 4, 6, 8, 10, and 11, we will have discussion sessions during class. In these discussion sessions, we will critically review social scientific research on the week's climate governance topic. Questions to facilitate these discussions will be assigned by Thursday the week prior. Following each discussion, you will have a short writing task designed to distill what you learned. Your write-ups are due before noon on the Tuesday the week following the discussion.
 
+Discussion for each session is worth 4 points for a total of 24 points. [Draft of discussion questions]({{ site.baseurl }}{% link assets/evpp436_discussion.pdf %}) (subject to change).
 
 ## In-class exercises and write-ups
 In weeks 3, 5, 7, and 13, we will have in-class exercises. In these sessions, we will, both independently and in groups, apply lecture and reading materials to produce knowledge that can be used in some part of the climate policy process. Following each in-class exercise, you will have a short writing task designed to distill what you learned. Your write-ups are due before noon on the Tuesday the week following the exercise. 
 
-Each exercise and write-up is worth 6 points for a total of 24 points. Detailed breakdowns are available in the grading rubric for each exercise.
+Each exercise and write-up is worth 6 points for a total of 24 points. [Draft of exercises]({{ site.baseurl }}{% link assets/evpp436_exercises.pdf %}) (subject to change).
 
 ## Final research-based project
 The capstone project for this course will be a written assignment emphasizing student production of research in one of three formats described below. You will complete the project in teams of 1-3 students. To practice scientific communication, you will present your projects in week 14 of the class. The final written project is due by 11:59pm on Mon. May 12.
 
-This project, including both written and presentation portions, is worth 30 points. A detailed breakdown is available in the grading rubric.
+This project, including both written and presentation portions, is worth 30 points. [Draft of final project criteria]({{ site.baseurl }}{% link assets/evpp436_final.pdf %}) (subject to change).
 
 ### Research design
 An implementable research design on a research question (academic or otherwise) chosen in consultation with the instructor.
