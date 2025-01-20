@@ -14,6 +14,48 @@ description: Outline of course project resources.
 1. TOC
 {:toc}
 
+<style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">Assignment</th>
+    <th class="tg-c3ow">Due Date</th>
+    <th class="tg-c3ow">Points</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Reading questions</td>
+    <td class="tg-c3ow">Throughout the course</td>
+    <td class="tg-c3ow">24</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">Discussion sessions</td>
+    <td class="tg-c3ow">Throughout the course</td>
+    <td class="tg-c3ow">24</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">In-class exercises and write-ups</td>
+    <td class="tg-c3ow">Weeks 3, 5, 7, 13</td>
+    <td class="tg-c3ow">24</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Final research-based project</td>
+    <td class="tg-c3ow">Week 14 & end of term</td>
+    <td class="tg-c3ow">30</td>
+  </tr>
+</tbody>
+</table>
+
 ## Reading questions
 Short reading questions will be assigned for weeks 2-13. These will be basic questions (i.e. if you do the readings you will know the answers). Each week's questions will be assigned on Thursday the week prior and are due before 10am on Tuesday. 
 
