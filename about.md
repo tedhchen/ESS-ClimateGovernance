@@ -33,7 +33,7 @@ By the end of this course, students will:
 ## Course Expectations
 
 ### Course Organization
-This course is held in-person once a week on Tuesdays. Generally speaking, we will start the lesson with a lecture then move to lab-based work (e.g. exercises and discussions) for the latter part. We will move things around to accomodate potential guest speakers or other opportunities that may arise. 
+This course is held in-person once a week on Tuesdays. Generally speaking, we will start the lesson with a lecture then move to lab-based work (e.g., exercises and discussions) for the latter part. We will move things around to accomodate potential guest speakers or other opportunities that may arise. 
 
 ### Students can expect from the instructor
 -  I am trained in political science, and have additional specializations in environmental social science and network science. How I approach the class topics is naturally influenced by my background, but I will strive to present a wide variety of materials that shows the breadth of climate governance research.
@@ -41,7 +41,7 @@ This course is held in-person once a week on Tuesdays. Generally speaking, we wi
 
 ### I expect from students
 - Commitment to hands-on learning. In addition to lectures, this course is designed with discussions and projects in mind.
-- Respect for everyone involved with the course (i.e. students, instructors, guest lecturers), and follow the course [Code of Conduct]({{ site.baseurl }}{% link conduct.md %}). It is especially important to understand that the class will comprise individuals from diverse and multidisciplinary backgrounds. Communication and patience are paramount.
+- Respect for everyone involved with the course (i.e., students, instructors, guest lecturers), and follow the course [Code of Conduct]({{ site.baseurl }}{% link conduct.md %}). It is especially important to understand that the class will comprise individuals from diverse and multidisciplinary backgrounds. Communication and patience are paramount.
 - Basics: do the prep; come to class; contribute to team work.
 
 ## Assessment

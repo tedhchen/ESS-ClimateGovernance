@@ -19,7 +19,7 @@ All course participants are expected to show respect and courtesy to others. All
 - Show courtesy and respect towards other community members
 
 ## Unacceptable Behavior
-Examples of unacceptable behavior by all course participants on all course platforms (i.e. classroom and all course-related communications):
+Examples of unacceptable behavior by all course participants on all course platforms (i.e., classroom and all course-related communications):
 - Written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
 - Causing someone to fear for their safety, such as through stalking, following, or intimidation
 - Violent threats or language directed against another person

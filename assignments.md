@@ -60,7 +60,7 @@ This page contains an overview of our course assignments and draft versions of t
 </table>
 
 ## Reading questions
-Short reading questions will be assigned for weeks 2-13. These will be basic questions (i.e. if you do the readings you will know the answers). Each week's questions will be assigned by Thursday the week prior and are due before noon on Tuesday. 
+Short reading questions will be assigned for weeks 2-13. These will be basic questions (i.e., if you do the readings you will know the answers). Each week's questions will be assigned by Thursday the week prior and are due before noon on Tuesday. 
 
 Each week's questions will be worth 2 points for a total of 24 points. [Draft of weekly reading questions]({{ site.baseurl }}{% link assets/evpp436_questions.pdf %}) (subject to change).
 
