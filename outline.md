@@ -101,19 +101,19 @@ The course outline is subject to change to adapt to contingencies that may arise
     <td class="tg-za14">11</td>
     <td class="tg-za14">Apr. 8</td>
     <td class="tg-za14">Transnational nonstate climate advocacy networks*</td>
-    <td class="tg-cbzp"><span style="background-color:#FFE599">Final project lab</span></td>
+    <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
   </tr>
   <tr>
     <td class="tg-za14">12</td>
     <td class="tg-za14">Apr. 15</td>
-    <td class="tg-za14">Sources of climate obstruction*</td>
-	<td class="tg-eyz2"><span style="background-color:#D9D2E9">Climate obstruction exercise</span></td>
+    <td class="tg-za14">The role of technology in climate mitigation*</td>
+    <td class="tg-cbzp"><span style="background-color:#FFE599">Final project lab</span></td>
   </tr>
   <tr>
     <td class="tg-za14">13</td>
     <td class="tg-za14">Apr. 22</td>
-    <td class="tg-za14">The role of technology in climate mitigation*</td>
-    <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
+    <td class="tg-za14">Sources of climate obstruction*</td>
+	<td class="tg-eyz2"><span style="background-color:#D9D2E9">Climate obstruction exercise</span></td>
   </tr>
   <tr>
     <td class="tg-za14">14</td>
