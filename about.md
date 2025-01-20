@@ -47,7 +47,7 @@ This course is held in-person once a week on Tuesdays. Generally speaking, we wi
 ## Assessment
 Here is a summary of the course assignments and their point worth. More information on these tasks can be found on the [assignments page]({{ site.baseurl }}{% link assignments.md %}). 
 
-Students can obtain up to 105 points during the course. Because the points-to-grade conversion (chart below) is designed for a 100-point scale, students essentially have the opportunity for 5 extra credit points.
+Students can obtain up to 102 points during the course. Because the points-to-grade conversion (chart below) is designed for a 100-point scale, students essentially have the opportunity for 2 extra credit points.
 
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -85,8 +85,8 @@ Students can obtain up to 105 points during the course. Because the points-to-gr
   </tr>
   <tr>
     <td class="tg-0pky">Final written project and presentation</td>
-    <td class="tg-c3ow">Week 14</td>
-    <td class="tg-c3ow">33</td>
+    <td class="tg-c3ow">Week 14 & end of term</td>
+    <td class="tg-c3ow">30</td>
   </tr>
 </tbody>
 </table>
@@ -115,7 +115,7 @@ Here is how course scores correspond to letter grades. Your total points will be
     <td class="tg-73oq"></td>
     <td class="tg-73oq">A+</td>
     <td class="tg-3z1b">[97,</td>
-    <td class="tg-0lax">105]</td>
+    <td class="tg-0lax">102]</td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>

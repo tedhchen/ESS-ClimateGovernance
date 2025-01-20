@@ -33,7 +33,7 @@ Each exercise and write-up is worth 6 points for a total of 24 points. Detailed 
 ## Final research-based project
 The capstone project for this course will be a written assignment emphasizing student production of research in one of three formats described below. You will complete the project in teams of 1-3 students. To practice scientific communication, you will present your projects in week 14 of the class.
 
-This project, including both written and presentation portions, is worth 33 points. A detailed breakdown is available in the grading rubric.
+This project, including both written and presentation portions, is worth 30 points. A detailed breakdown is available in the grading rubric.
 
 ### Research design
 An implementable research design on a research question (academic or otherwise) chosen in consultation with the instructor.
