@@ -31,7 +31,7 @@ In weeks 3, 5, 7, and 13, we will have in-class exercises. In these sessions, we
 Each exercise and write-up is worth 6 points for a total of 24 points. Detailed breakdowns are available in the grading rubric for each exercise.
 
 ## Final research-based project
-The capstone project for this course will be a written assignment emphasizing student production of research in one of three formats described below. You will complete the project in teams of 2-4 students. To practice scientific communication, you will present your projects in week 14 of the class.
+The capstone project for this course will be a written assignment emphasizing student production of research in one of three formats described below. You will complete the project in teams of 1-3 students. To practice scientific communication, you will present your projects in week 14 of the class.
 
 This project, including both written and presentation portions, is worth 33 points. A detailed breakdown is available in the grading rubric.
 
@@ -42,5 +42,5 @@ An implementable research design on a research question (academic or otherwise) 
 A policy memo on a climate governance issue chosen in consultation with the instructor.
 
 ### Scientific literature review
-A review of the scientific literature on some climate politics or governance research topic chosen in consultation with the instructor.
+A review of the scientific literature on some climate politics or governance research topic chosen in consultation with the instructor. This format is ideally done individually.
 
