@@ -39,85 +39,85 @@ The course outline is subject to change to adapt to contingencies that may arise
 <tbody>
   <tr>
     <td class="tg-za14">1</td>
-    <td class="tg-za14">Jan. 16</td>
+    <td class="tg-za14">Jan. 21</td>
     <td class="tg-za14">Introductions and Course outline</td>
     <td class="tg-za14">Pre-class baseline questionnaire</td>
   </tr>
   <tr>
     <td class="tg-za14">2</td>
-    <td class="tg-za14">Jan. 23</td>
+    <td class="tg-za14">Jan. 28</td>
     <td class="tg-za14">Governance surrounding Climate-induced Hazards*</td>
     <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
   </tr>
   <tr>
     <td class="tg-za14">3</td>
-    <td class="tg-za14">Jan. 30</td>
+    <td class="tg-za14">Feb. 4</td>
     <td class="tg-za14">Complex systems, networks, and systems approaches*</td>
     <td class="tg-eyz2"><span style="background-color:#D9D2E9">Systems thinking exercise</span></td>
   </tr>
   <tr>
     <td class="tg-za14">4</td>
-    <td class="tg-za14">Feb. 6</td>
+    <td class="tg-za14">Feb. 11</td>
     <td class="tg-za14">Introduction to governance and the policy process*</td>
     <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
   </tr>
   <tr>
     <td class="tg-za14">5</td>
-    <td class="tg-za14">Feb. 13</td>
+    <td class="tg-za14">Feb. 18</td>
     <td class="tg-za14">Public opinion surrounding climate politics*</td>
     <td class="tg-eyz2"><span style="background-color:#D9D2E9">Climate communication exercise</span></td>
   </tr>
   <tr>
     <td class="tg-za14">6</td>
-    <td class="tg-za14">Feb. 20</td>
+    <td class="tg-za14">Feb. 25</td>
     <td class="tg-za14">Role of the climate issue in elite politics*</td>
     <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
   </tr>
   <tr>
     <td class="tg-za14">7</td>
-    <td class="tg-za14">Feb. 27</td>
+    <td class="tg-za14">Mar. 4</td>
     <td class="tg-za14">Fairness and justice in climate adaptation*</td>
     <td class="tg-eyz2"><span style="background-color:#D9D2E9">Identifying mechanisms exercise</span></td>
   </tr>
   <tr>
     <td class="tg-za14">8</td>
-    <td class="tg-za14">Mar. 12</td>
+    <td class="tg-za14">Mar. 18</td>
     <td class="tg-za14">Climate change litigation*</td>
     <td class="tg-cbzp"><span style="background-color:#FFE599">Final project lab</span></td>
   </tr>
   <tr>
     <td class="tg-za14">9</td>
-    <td class="tg-za14">Mar. 19</td>
+    <td class="tg-za14">Mar. 25</td>
     <td class="tg-za14">International climate governance regimes*</td>
     <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
   </tr>
   <tr>
     <td class="tg-za14">10</td>
-    <td class="tg-za14">Mar. 26</td>
+    <td class="tg-za14">Apr. 1</td>
     <td class="tg-za14">Transnational nonstate climate advocacy networks*</td>
     <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
   </tr>
   <tr>
     <td class="tg-za14">11</td>
-    <td class="tg-za14">Apr. 2</td>
+    <td class="tg-za14">Apr. 8</td>
     <td class="tg-za14">The role of technology in climate mitigation*</td>
     <td class="tg-cbzp"><span style="background-color:#FFE599">Final project lab</span></td>
   </tr>
   <tr>
     <td class="tg-za14">12</td>
-    <td class="tg-za14">Apr. 9</td>
+    <td class="tg-za14">Apr. 15</td>
     <td class="tg-za14">Pro-climate activism and social movements*</td>
     <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
   </tr>
   <tr>
     <td class="tg-za14">13</td>
-    <td class="tg-za14">Apr. 16</td>
+    <td class="tg-za14">Apr. 22</td>
     <td class="tg-za14">Sources of climate obstruction*</td>
     <td class="tg-eyz2"><span style="background-color:#D9D2E9">Climate obstruction exercise</span></td>
   </tr>
   <tr>
     <td class="tg-za14">14</td>
-    <td class="tg-za14">Apr. 23</td>
+    <td class="tg-za14">Apr. 29</td>
     <td class="tg-cbzp" colspan="2"><span style="background-color:#FFE599">Final presentations</span></td>
   </tr>
   <tr>

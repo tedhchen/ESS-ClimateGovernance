@@ -1,5 +1,5 @@
 ---
-title: Week 6 (Feb. 20)
+title: Week 6 (Feb. 25)
 type: outline
 ---
 

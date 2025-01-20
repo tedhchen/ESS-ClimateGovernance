@@ -22,11 +22,11 @@ In this course, we will practice being informed consumers of social scientific r
 
 ## Basics
 
-**Meeting Times:** Tues. 4:30-7:10pm
+**Meeting Times:** Tue. 4:30-7:10pm
 
-**Meeting Locations:** David King 2053
+**Meeting Locations:** Angel Cabrera Global Center 1320A
 
-**Office Hours:** David King 3036, Wed. 4-5pm and by appointment
+**Office Hours:** David King 3036, Mon. 11am-1pm and by appointment
 
 **Instructors:**
 {{ site.staffers | where: 'name', 'Ted Hsuan Yun Chen' }}

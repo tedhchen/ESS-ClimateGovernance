@@ -1,5 +1,5 @@
 ---
-title: Week 11 (Apr. 2)
+title: Week 11 (Apr. 8)
 type: outline
 ---
 
