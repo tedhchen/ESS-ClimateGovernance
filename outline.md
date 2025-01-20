@@ -83,13 +83,13 @@ The course outline is subject to change to adapt to contingencies that may arise
     <td class="tg-za14">8</td>
     <td class="tg-za14">Mar. 18</td>
     <td class="tg-za14">Pro-climate activism and social movements*</td>
-    <td class="tg-cbzp"><span style="background-color:#FFE599">Final project lab</span></td>
+    <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
   </tr>
   <tr>
     <td class="tg-za14">9</td>
     <td class="tg-za14">Mar. 25</td>
     <td class="tg-za14">Climate change litigation*</td>
-    <td class="tg-mhwl"><span style="background-color:#D9EAD3">Discussion session^</span></td>
+    <td class="tg-cbzp"><span style="background-color:#FFE599">Final project lab</span></td>
   </tr>
   <tr>
     <td class="tg-za14">10</td>
