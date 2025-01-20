@@ -3,23 +3,24 @@ title: Week 10 (Apr. 1)
 type: outline
 ---
 
-Overview
-: Transnational nonstate climate advocacy networks
+Topic
+: Global climate governance regimes
 
 Readings
 
-: Hale, T. 2020. ["Transnational actors and transnational governance in global environmental politics."](https://doi.org/10.1146/annurev-polisci-050718-032644){:target="_blank"} _Annual Review of Political Science_ 23, 203-220.
+: Young, O.R. 2018. ["Research strategies to assess the effectiveness of international environmental regimes."](https://doi.org/10.1038/s41893-018-0132-y){:target="_blank"} _Nature Sustainability_ 1, 461-465.
 
-: Leifeld, P., Fisher, D. 2017. ["Membership nominations in international scientific assessments."](https://doi.org/10.1038/nclimate3392){:target="_blank"} _Nature Climate Change_ 7, 730-735.
+: Axelrod, M. 2011. ["Climate Change and Global Fisheries Management: Linking Issues to Protect Ecosystems or to Save Political Interests?"](https://doi.org/10.1162/GLEP_a_00069){:target="_blank"} _Global Environmental Politics_ 11(3): 64-84.
 
-: Vu, H.T. et al. 2020. ["Who Leads the Conversation on Climate Change?: A Study of a Global Network of NGOs on Twitter."](https://doi.org/10.1080/17524032.2019.1687099){:target="_blank"} _Environmental Communication_ 14(4):450-464.
+: Aklin, M., Mildenberger, M. 2020. ["Prisoners of the Wrong Dilemma: Why Distributive Conflict, Not Collective Action, Characterizes the Politics of Climate Change."](https://doi.org/10.1162/glep_a_00578){:target="_blank"} _Global Environmental Politics_ 20(4): 4-27.
 
-: **Recommended**{: .label .label-optional } Vu, H.T. et al. 2021. ["Social Media and Environmental Activism: Framing Climate Change on Facebook by Global NGOs."](https://doi.org/10.1177/1075547020971644){:target="_blank"} _Science Communication_ 43(1):91-115.
+: **Recommended**{: .label .label-optional }  Dorsch, M., Flachsland, C. 2017. ["A Polycentric Approach to Global Climate Governance."](https://doi.org/10.1162/GLEP_a_00400){:target="_blank"} _Global Environmental Politics_ 17(2): 45-64.
 
-: **Recommended**{: .label .label-optional } Fünfgeld, H. 2015. ["Facilitating local climate change adaptation through transnational municipal networks"](https://doi.org/10.1016/j.cosust.2014.10.011){:target="_blank"} _Current Opinions in Environmental Sustainability_ 12, 67-73.
+: **Recommended**{: .label .label-optional } Kennard, A., Schnakenberg, K.E. 2023. ["Comment: Global Climate Policy and Collective Action."](https://doi.org/10.1162/glep_c_00699){:target="_blank"} _Global Environmental Politics_ 23(1): 133-144.
 
+: **Recommended**{: .label .label-optional } Aklin, M., Mildenberger, M. 2023. ["Reply: The Persistent Absence of Empirical Evidence for Free-Riding in Global Climate Politics."](https://doi.org/10.1162/glep_c_00700){:target="_blank"} _Global Environmental Politics_ 23(1): 145-151.
 
 Class
-: **Lecture**{: .label .label-lecture } Transnational actors
-: **Discussion 5**{: .label .label-disc } Pros, cons, and challenges of transnational governance
+: **Lecture**{: .label .label-lecture } International regimes and environmental governance
+: **Discussion 5**{: .label .label-disc } How to derive testable implications from theory
 : **Questions 9**{: .label .label-hw } Reading questions due

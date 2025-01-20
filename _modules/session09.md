@@ -4,23 +4,17 @@ type: outline
 ---
 
 Topic
-: Global climate governance regimes
+: Climate change litigation
 
 Readings
 
-: Young, O.R. 2018. ["Research strategies to assess the effectiveness of international environmental regimes."](https://doi.org/10.1038/s41893-018-0132-y){:target="_blank"} _Nature Sustainability_ 1, 461-465.
+: Peel, J., Osofsky, H.M. 2020. ["Climate Change Litigation."](https://doi.org/10.1146/annurev-lawsocsci-022420-122936){:target="_blank"} _Annual Review of Law and Social Science_ 16, 21-38.
 
-: Axelrod, M. 2011. ["Climate Change and Global Fisheries Management: Linking Issues to Protect Ecosystems or to Save Political Interests?"](https://doi.org/10.1162/GLEP_a_00069){:target="_blank"} _Global Environmental Politics_ 11(3): 64-84.
+: Holm, F., Berardo, R. 2020. ["Coalitional Architecture of Climate Change Litigation Networks in the United States."](https://doi.org/10.1111/ropr.12402){:target="_blank"} _Review of Policy Research_ 37(6): 797-822.
 
-: Aklin, M., Mildenberger, M. 2020. ["Prisoners of the Wrong Dilemma: Why Distributive Conflict, Not Collective Action, Characterizes the Politics of Climate Change."](https://doi.org/10.1162/glep_a_00578){:target="_blank"} _Global Environmental Politics_ 20(4): 4-27.
-
-: **Recommended**{: .label .label-optional }  Dorsch, M., Flachsland, C. 2017. ["A Polycentric Approach to Global Climate Governance."](https://doi.org/10.1162/GLEP_a_00400){:target="_blank"} _Global Environmental Politics_ 17(2): 45-64.
-
-: **Recommended**{: .label .label-optional } Kennard, A., Schnakenberg, K.E. 2023. ["Comment: Global Climate Policy and Collective Action."](https://doi.org/10.1162/glep_c_00699){:target="_blank"} _Global Environmental Politics_ 23(1): 133-144.
-
-: **Recommended**{: .label .label-optional } Aklin, M., Mildenberger, M. 2023. ["Reply: The Persistent Absence of Empirical Evidence for Free-Riding in Global Climate Politics."](https://doi.org/10.1162/glep_c_00700){:target="_blank"} _Global Environmental Politics_ 23(1): 145-151.
+: **Recommended**{: .label .label-optional } Marjanac, S., Patton, L. 2018. ["Extreme weather event attribution science and climate change litigation: an essential step in the causal chain?"](https://doi.org/10.1080/02646811.2018.1451020){:target="_blank"} _Journal of Energy & Natural Resources Law_ 36(3): 265-298.
 
 Class
-: **Lecture**{: .label .label-lecture } International regimes and environmental governance
-: **Discussion 4**{: .label .label-disc } How to derive testable implications from theory
+: **Lecture**{: .label .label-lecture } The history and rise of environmental and climate litigation
+: **Final project**{: .label .label-present } Demonstration and working lab
 : **Questions 8**{: .label .label-hw } Reading questions due

@@ -3,22 +3,19 @@ title: Week 12 (Apr. 15)
 type: outline
 ---
 
-Topic
-: Pro-climate activism and social movements
+Topics
+: Topic focus: The role of technology in climate mitigation and adaptation
 
 Readings
 
-: McAdam, D. 2017. ["Social Movement Theory and the Prospects for Climate Change Activism in the United States."](https://doi.org/10.1146/annurev-polisci-052615-025801){:target="_blank"} _Annual Review of Political Science_ 20, 189-208.
+: Introne, J. et al. 2013. ["Solving Wicked Social Problems with Socio-computational Systems."](https://doi.org/10.1007/s13218-012-0231-2){:target="_blank"} _KI - Künstliche Intelligenz_ 27, 45-52.
 
-: Parth, A. et al. 2020. ["“How Dare You!“—The Influence of Fridays for Future on the Political Attitudes of Young Adults."](https://doi.org/10.3389/fpos.2020.611139){:target="_blank"} _Frontiers in Political Science_ 2, 611139.
 
-: Hadden, J. 2014. ["Explaining Variation in Transnational Climate Change Activism: The Role of Inter-Movement Spillover."](https://doi.org/10.1162/GLEP_a_00225){:target="_blank"} _Global Environmental Politics_ 14(2): 7-25.
+: Wagner, G. 2022. ["Green Moral Hazards."](https://doi.org/10.1080/21550085.2021.1940449){:target="_blank"} _Ethics, Policy & Environment_ 25,(3): 264-280.
 
-: **Recommended**{: .label .label-optional } Savolainen, S. et al. 2023. "How Police Repression Shapes Social Movements Online: Evidence from Climate Activists in Finland." _Working paper._ 
-
-: **Recommended**{: .label .label-optional } Boulianne, S. et al. 2020. ["“School Strike 4 Climate”: Social Media and the International Youth Protest on Climate Change."](http://dx.doi.org/10.17645/mac.v8i2.2768){:target="_blank"} _Media and Communication_ 8(2).
+: **Recommended**{: .label .label-optional } Dechezleprêtre, A. et al. 2011. ["Invention and Transfer of Climate Change–Mitigation Technologies: A Global Analysis."](https://doi.org/10.1093/reep/req023){:target="_blank"} _Review of Environmental Economics and Policy_ 5(1): 109-130.
 
 Class
-: **Lecture**{: .label .label-lecture } Effecting change from below: grassroots social movements
-: **Discussion 6**{: .label .label-disc } Thinking through the impacts of transgressive climate activism on ourselves
+: **Lecture**{: .label .label-lecture } Opportunities and limitations of technological growth to climate mitigation
+: **Final project**{: .label .label-present } Working lab
 : **Questions 11**{: .label .label-hw } Reading questions due

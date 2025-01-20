@@ -3,19 +3,23 @@ title: Week 11 (Apr. 8)
 type: outline
 ---
 
-Topics
-: Topic focus: The role of technology in climate mitigation and adaptation
+Overview
+: Transnational nonstate climate advocacy networks
 
 Readings
 
-: Introne, J. et al. 2013. ["Solving Wicked Social Problems with Socio-computational Systems."](https://doi.org/10.1007/s13218-012-0231-2){:target="_blank"} _KI - Künstliche Intelligenz_ 27, 45-52.
+: Hale, T. 2020. ["Transnational actors and transnational governance in global environmental politics."](https://doi.org/10.1146/annurev-polisci-050718-032644){:target="_blank"} _Annual Review of Political Science_ 23, 203-220.
 
+: Leifeld, P., Fisher, D. 2017. ["Membership nominations in international scientific assessments."](https://doi.org/10.1038/nclimate3392){:target="_blank"} _Nature Climate Change_ 7, 730-735.
 
-: Wagner, G. 2022. ["Green Moral Hazards."](https://doi.org/10.1080/21550085.2021.1940449){:target="_blank"} _Ethics, Policy & Environment_ 25,(3): 264-280.
+: Vu, H.T. et al. 2020. ["Who Leads the Conversation on Climate Change?: A Study of a Global Network of NGOs on Twitter."](https://doi.org/10.1080/17524032.2019.1687099){:target="_blank"} _Environmental Communication_ 14(4):450-464.
 
-: **Recommended**{: .label .label-optional } Dechezleprêtre, A. et al. 2011. ["Invention and Transfer of Climate Change–Mitigation Technologies: A Global Analysis."](https://doi.org/10.1093/reep/req023){:target="_blank"} _Review of Environmental Economics and Policy_ 5(1): 109-130.
+: **Recommended**{: .label .label-optional } Vu, H.T. et al. 2021. ["Social Media and Environmental Activism: Framing Climate Change on Facebook by Global NGOs."](https://doi.org/10.1177/1075547020971644){:target="_blank"} _Science Communication_ 43(1):91-115.
+
+: **Recommended**{: .label .label-optional } Fünfgeld, H. 2015. ["Facilitating local climate change adaptation through transnational municipal networks"](https://doi.org/10.1016/j.cosust.2014.10.011){:target="_blank"} _Current Opinions in Environmental Sustainability_ 12, 67-73.
+
 
 Class
-: **Lecture**{: .label .label-lecture } Opportunities and limitations of technological growth to climate mitigation
-: **Final project**{: .label .label-present } Working lab
+: **Lecture**{: .label .label-lecture } Transnational actors
+: **Discussion 6**{: .label .label-disc } Pros, cons, and challenges of transnational governance
 : **Questions 10**{: .label .label-hw } Reading questions due
