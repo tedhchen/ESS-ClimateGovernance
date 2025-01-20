@@ -62,9 +62,8 @@ Short reading questions will be assigned for weeks 2-13. These will be basic que
 Each week's questions will be worth 2 points for a total of 24 points.
 
 ## Discussion questions
-In weeks 2, 4, 6, 8, 10, and 11, we will have discussion sessions during class. In these discussion sessions, we will critically review social scientific research on the week's climate governance topic. Questions to facilitate these discussions will be assigned on Thursday the week prior. 
-
 Discussion for each session is worth 4 points for a total of 24 points.
+In weeks 2, 4, 6, 8, 10, and 11, we will have discussion sessions during class. In these discussion sessions, we will critically review social scientific research on the week's climate governance topic. Questions to facilitate these discussions will be assigned by Thursday the week prior. Following each discussion, you will have a short writing task designed to distill what you learned. Your write-ups are due before noon on the Tuesday the week following the discussion.
 
 
 ## In-class exercises and write-ups
