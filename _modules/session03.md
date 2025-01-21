@@ -14,6 +14,8 @@ Readings
 
 : Ostrom, E. 2009. ["A General Framework for Analyzing Sustainability of Social-Ecological Systems."](https://doi.org/10.1126/science.1172133){:target="_blank"} _Science_ 325(5939): 419-422.
 
+: Ylä-Anttila, T. et al. 2018. ["Climate change policy networks: Why and how to compare them across countries."](https://doi.org/10.1016/j.erss.2018.06.020){:target="_blank"} _Energy Research & Social Science_ 45, 258-265. 
+
 : **Recommended**{: .label .label-optional } Newman, M.E.J. 2011. ["Resource Letter CS-1: Complex Systems."](https://doi.org/10.1119/1.3590372){:target="_blank"} _American Journal of Physics_ 79, 800.
 
 Class

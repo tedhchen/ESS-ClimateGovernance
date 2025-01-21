@@ -16,8 +16,6 @@ Readings
 
 : **Recommended**{: .label .label-optional } Dietz, T. et al. 2003. ["The struggle to govern the commons."](https://doi.org/10.1126/science.1091015){:target="_blank"} _Science_ 302(5652): 1907-1912.
 
-: **Recommended**{: .label .label-optional } Ylä-Anttila, T. et al. 2018. ["Climate change policy networks: Why and how to compare them across countries."](https://doi.org/10.1016/j.erss.2018.06.020){:target="_blank"} _Energy Research & Social Science_ 45, 258-265. 
-
 Class
 : **Lecture**{: .label .label-lecture } The policy process and domestic political institutions
 : **Discussion 2**{: .label .label-disc } Political institutions as causal mechanisms of policy outcomes
