@@ -128,6 +128,7 @@ The course outline is subject to change to adapt to contingencies that may arise
 </table>
 
 ## Weekly Schedule
+Readings for class are listed in the weekly schedule below. Required readings should be completed before the corresponding class; they are designed to facilitate your understanding of the week’s topic and to help with class discussions. Recommended readings are optional resources for you; in fact, I do not expect you to read all the additional materials, but dive into the ones that interest you.
 
 {% assign outline = site.modules | where: 'type', 'outline' %}
 {% for module in outline %}
