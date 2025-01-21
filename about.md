@@ -75,7 +75,7 @@ Students can obtain up to 102 points during the course. Because the points-to-gr
   </tr>
     <tr>
     <td class="tg-0pky">Discussion sessions</td>
-    <td class="tg-c3ow">Throughout the course</td>
+    <td class="tg-c3ow">Weeks 2, 4, 6, 8, 10, 11</td>
     <td class="tg-c3ow">24</td>
   </tr>
   <tr>
