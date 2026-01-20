@@ -47,8 +47,6 @@ This course is held in-person once a week on Tuesdays. Generally speaking, we wi
 ## Assessment
 Here is a summary of the course assignments and their point worth. More information on these tasks can be found on the [assignments page]({{ site.baseurl }}{% link assignments.md %}). 
 
-Students can obtain up to 102 points during the course. Because the points-to-grade conversion (chart below) is designed for a 100-point scale, students essentially have the opportunity for 2 extra credit points.
-
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
@@ -71,16 +69,16 @@ Students can obtain up to 102 points during the course. Because the points-to-gr
   <tr>
     <td class="tg-0pky">Reading questions</td>
     <td class="tg-c3ow">Throughout the course</td>
-    <td class="tg-c3ow">24</td>
+    <td class="tg-c3ow">22</td>
   </tr>
     <tr>
     <td class="tg-0pky">Discussion sessions</td>
-    <td class="tg-c3ow">Weeks 2, 4, 6, 8, 10, 11</td>
+    <td class="tg-c3ow">Weeks 2, 4, 7, 9, 11, 12</td>
     <td class="tg-c3ow">24</td>
   </tr>
   <tr>
     <td class="tg-0pky">In-class exercises and write-ups</td>
-    <td class="tg-c3ow">Weeks 3, 5, 7, 13</td>
+    <td class="tg-c3ow">Weeks 3, 6, 8, 13</td>
     <td class="tg-c3ow">24</td>
   </tr>
   <tr>
@@ -115,7 +113,7 @@ Here is how course scores correspond to letter grades. Your total points will be
     <td class="tg-73oq"></td>
     <td class="tg-73oq">A+</td>
     <td class="tg-3z1b">[97,</td>
-    <td class="tg-0lax">102]</td>
+    <td class="tg-0lax">100]</td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
