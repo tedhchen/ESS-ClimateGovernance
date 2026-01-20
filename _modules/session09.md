@@ -1,24 +1,24 @@
 ---
-title: Week 9 (Mar. 25)
+title: Week 9 (Mar. 24)
 type: outline
 ---
 
 Topic
-: Climate change litigation
+: Pro-climate activism and social movements
 
 Readings
 
-: Stuart-Smith, R.F. et al. 2021. ["Filling the evidentiary gap in climate litigation."](https://doi.org/10.1038/s41558-021-01086-7){:target="_blank"} _Nature Climate Change_ 11, 651-655.
+: McAdam, D. 2017. ["Social Movement Theory and the Prospects for Climate Change Activism in the United States."](https://doi.org/10.1146/annurev-polisci-052615-025801){:target="_blank"} _Annual Review of Political Science_ 20, 189-208.
 
-: Sato, M. et al. 2024. ["Impacts of climate litigation on firm value."](https://doi.org/10.1038/s41893-024-01455-y){:target="_blank"} _Nature Sustainability_ 7, 1461-1468.
+: Parth, A. et al. 2020. ["“How Dare You!“—The Influence of Fridays for Future on the Political Attitudes of Young Adults."](https://doi.org/10.3389/fpos.2020.611139){:target="_blank"} _Frontiers in Political Science_ 2, 611139.
 
-: Holm, F., Berardo, R. 2020. ["Coalitional Architecture of Climate Change Litigation Networks in the United States."](https://doi.org/10.1111/ropr.12402){:target="_blank"} _Review of Policy Research_ 37(6): 797-822.
+: Hadden, J. 2014. ["Explaining Variation in Transnational Climate Change Activism: The Role of Inter-Movement Spillover."](https://doi.org/10.1162/GLEP_a_00225){:target="_blank"} _Global Environmental Politics_ 14(2): 7-25.
 
-: **Recommended**{: .label .label-optional } Peel, J., Osofsky, H.M. 2020. ["Climate Change Litigation."](https://doi.org/10.1146/annurev-lawsocsci-022420-122936){:target="_blank"} _Annual Review of Law and Social Science_ 16, 21-38.
+: **Recommended**{: .label .label-optional } Savolainen, S. et al. 2023. ["Social Media Affordances Sustain Social Movements Facing Repression: Evidence from Climate Activism."](https://doi.org/10.31235/osf.io/p4yvk){:target="_blank"} _Working paper._ 
 
-: **Recommended**{: .label .label-optional } Marjanac, S., Patton, L. 2018. ["Extreme weather event attribution science and climate change litigation: an essential step in the causal chain?"](https://doi.org/10.1080/02646811.2018.1451020){:target="_blank"} _Journal of Energy & Natural Resources Law_ 36(3): 265-298.
+: **Recommended**{: .label .label-optional } Boulianne, S. et al. 2020. ["“School Strike 4 Climate”: Social Media and the International Youth Protest on Climate Change."](http://dx.doi.org/10.17645/mac.v8i2.2768){:target="_blank"} _Media and Communication_ 8(2).
 
 Class
-: **Lecture**{: .label .label-lecture } The history and rise of environmental and climate litigation
-: **Final project**{: .label .label-present } Demonstration and working lab
-: **Questions 8**{: .label .label-hw } Reading questions due
+: **Lecture**{: .label .label-lecture } Effecting change from below: grassroots social movements
+: **Discussion 4**{: .label .label-disc } Thinking through the impacts of transgressive climate activism on ourselves
+: **Questions 7**{: .label .label-hw } Reading questions due

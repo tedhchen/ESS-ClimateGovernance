@@ -1,24 +1,23 @@
 ---
-title: Week 6 (Feb. 25)
+title: Week 6 (Feb. 24)
 type: outline
 ---
 
 Topic
-: Role of the climate issue in elite politics
+: Public opinion surrounding climate politics
+: Climate skepticism and denial
 
 Readings
 
-: Guber, D.L. et al. 2021. ["`Time to Wake Up': Climate change advocacy in a polarized Congress, 1996-2015"](https://doi.org/10.1080/09644016.2020.1786333){:target="_blank"} _Enviromental Politics_ 30(4): 538-558.
+: Egan, P.J., Mullin, M. 2017. ["Climate Change: US Public Opinion."](https://doi.org/10.1146/annurev-polisci-051215-022857){:target="_blank"} _Annual Review of Political Science_ 20, 209-227.
 
-: Ladrech, R., Little, C. 2019. ["Drivers of political parties’ climate policy preferences: lessons from Denmark and Ireland."](https://doi.org/10.1080/09644016.2019.1625157){:target="_blank"} _Environmental Politics_ 28(6): 1017-1038.
+: Hornsey, M.J., Lewandowsky, S. 2022. ["A toolkit for understanding and addressing climate scepticism."](https://doi.org/10.1038/s41562-022-01463-y){:target="_blank"} _Nature Human Behaviour_ 6, 1454-1464.
 
-: Kwon, K.L., Hanlon, R.J. 2016. ["A comparative review for understanding elite interest and climate change policy in China."](https://doi.org/10.1007/s10668-015-9696-0){:target="_blank"} _Environment, Development and Sustainability_ 18, 1177-1193.
+: Sarathchandra, D. et al. 2020. ["Trust/distrust judgments and perceptions of climate science: A research note on skeptics’ rationalizations."](https://doi.org/10.1177/0963662519886089){:target="_blank"} _Public Understanding of Science_ 29(1): 53-60.
 
-: **Recommended**{: .label .label-optional } Finseraas, H. et al. 2021. ["Climate politics in hard times: How local economic shocks influence MPs attention to climate change."](https://doi.org/10.1111/1475-6765.12415){:target="_blank"} _European Journal of Political Research_ 60(3): 738-747.
-
-: **Recommended**{: .label .label-optional } Mangonnet, J. et al. 2022. ["Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas"](https://doi.org/10.1086/718978){:target="_blank"} _Journal of Politics_ 84(3): 1453-1468.
+: **Recommended**{: .label .label-optional } Chinn, S. et al. 2020. ["Politicization and Polarization in Climate Change News Content, 1985-2017."](https://doi.org/10.1177/1075547019900290){:target="_blank"} _Science Communication_ 42(1): 112-129.
 
 Class
-: **Lecture**{: .label .label-lecture } Climate change politics and elite political competition
-: **Discussion 3**{: .label .label-disc } Linking elite political competition over climate policy to mass public opinion and climate communication
-: **Questions 5**{: .label .label-hw } Reading questions due
+: **Lecture**{: .label .label-lecture } Determinants of public attitudes toward climate mitigation and adaptation
+: **In-class Exercise 2**{: .label .label-lab } Climate communication experimental design exercise
+: **Questions 4**{: .label .label-hw } Reading questions due

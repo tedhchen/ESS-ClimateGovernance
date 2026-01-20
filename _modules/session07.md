@@ -1,22 +1,24 @@
 ---
-title: Week 7 (Mar. 4)
+title: Week 7 (Mar. 3)
 type: outline
 ---
 
 Topic
-: Topic Focus: Fairness and justice in climate governance
+: Role of the climate issue in elite politics
 
 Readings
 
-: Banzhaf, H.S. et al. 2019. ["Environmental Justice: Establishing Causal Relationships."](https://doi.org/10.1146/annurev-resource-100518-094131){:target="_blank"} _Annual Review of Resource Economics_ 11, 377-398.
+: Guber, D.L. et al. 2021. ["`Time to Wake Up': Climate change advocacy in a polarized Congress, 1996-2015"](https://doi.org/10.1080/09644016.2020.1786333){:target="_blank"} _Enviromental Politics_ 30(4): 538-558.
 
-: Green, F., Healy, N. 2022. ["How inequality fuels climate change: The climate case for a Green New Deal."](https://doi.org/10.1016/j.oneear.2022.05.005){:target="_blank"} _One Earth_ 5(6): 635-649.
+: Ladrech, R., Little, C. 2019. ["Drivers of political parties’ climate policy preferences: lessons from Denmark and Ireland."](https://doi.org/10.1080/09644016.2019.1625157){:target="_blank"} _Environmental Politics_ 28(6): 1017-1038.
 
-: Kartha, S. et al. 2018. ["Cascading biases against poorer countries."](https://doi.org/10.1038/s41558-018-0152-7){:target="_blank"} _Nature Climate Change_ 8, 348-349.
+: Kwon, K.L., Hanlon, R.J. 2016. ["A comparative review for understanding elite interest and climate change policy in China."](https://doi.org/10.1007/s10668-015-9696-0){:target="_blank"} _Environment, Development and Sustainability_ 18, 1177-1193.
 
-: **Recommended**{: .label .label-optional } Harlan S.L. et al. 2015. ["Climate Justice and Inequality"](https://doi.org/10.1093/acprof:oso/9780199356102.003.0005){:target="_blank"}, in Dunlap, R.E., Brulle, R.J. eds., _Climate Change and Society: Sociological Perspectives_. Oxford University Press. Chapter 5.
+: **Recommended**{: .label .label-optional } Finseraas, H. et al. 2021. ["Climate politics in hard times: How local economic shocks influence MPs attention to climate change."](https://doi.org/10.1111/1475-6765.12415){:target="_blank"} _European Journal of Political Research_ 60(3): 738-747.
+
+: **Recommended**{: .label .label-optional } Mangonnet, J. et al. 2022. ["Playing Politics with Environmental Protection: The Political Economy of Designating Protected Areas"](https://doi.org/10.1086/718978){:target="_blank"} _Journal of Politics_ 84(3): 1453-1468.
 
 Class
-: **Lecture**{: .label .label-lecture } The origins of different types of climate justice
-: **In-class Exercise 3**{: .label .label-lab } Identifying mechanisms exercise
-: **Questions 6**{: .label .label-hw } Reading questions due
+: **Lecture**{: .label .label-lecture } Climate change politics and elite political competition
+: **Discussion 3**{: .label .label-disc } Linking elite political competition over climate policy to mass public opinion and climate communication
+: **Questions 5**{: .label .label-hw } Reading questions due

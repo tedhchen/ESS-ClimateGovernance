@@ -1,24 +1,22 @@
 ---
-title: Week 08 (Mar. 18)
+title: Week 8 (Mar. 17)
 type: outline
 ---
 
 Topic
-: Pro-climate activism and social movements
+: Topic Focus: Fairness and justice in climate governance
 
 Readings
 
-: McAdam, D. 2017. ["Social Movement Theory and the Prospects for Climate Change Activism in the United States."](https://doi.org/10.1146/annurev-polisci-052615-025801){:target="_blank"} _Annual Review of Political Science_ 20, 189-208.
+: Banzhaf, H.S. et al. 2019. ["Environmental Justice: Establishing Causal Relationships."](https://doi.org/10.1146/annurev-resource-100518-094131){:target="_blank"} _Annual Review of Resource Economics_ 11, 377-398.
 
-: Parth, A. et al. 2020. ["“How Dare You!“—The Influence of Fridays for Future on the Political Attitudes of Young Adults."](https://doi.org/10.3389/fpos.2020.611139){:target="_blank"} _Frontiers in Political Science_ 2, 611139.
+: Green, F., Healy, N. 2022. ["How inequality fuels climate change: The climate case for a Green New Deal."](https://doi.org/10.1016/j.oneear.2022.05.005){:target="_blank"} _One Earth_ 5(6): 635-649.
 
-: Hadden, J. 2014. ["Explaining Variation in Transnational Climate Change Activism: The Role of Inter-Movement Spillover."](https://doi.org/10.1162/GLEP_a_00225){:target="_blank"} _Global Environmental Politics_ 14(2): 7-25.
+: Kartha, S. et al. 2018. ["Cascading biases against poorer countries."](https://doi.org/10.1038/s41558-018-0152-7){:target="_blank"} _Nature Climate Change_ 8, 348-349.
 
-: **Recommended**{: .label .label-optional } Savolainen, S. et al. 2023. ["Social Media Affordances Sustain Social Movements Facing Repression: Evidence from Climate Activism."](https://doi.org/10.31235/osf.io/p4yvk){:target="_blank"} _Working paper._ 
-
-: **Recommended**{: .label .label-optional } Boulianne, S. et al. 2020. ["“School Strike 4 Climate”: Social Media and the International Youth Protest on Climate Change."](http://dx.doi.org/10.17645/mac.v8i2.2768){:target="_blank"} _Media and Communication_ 8(2).
+: **Recommended**{: .label .label-optional } Harlan S.L. et al. 2015. ["Climate Justice and Inequality"](https://doi.org/10.1093/acprof:oso/9780199356102.003.0005){:target="_blank"}, in Dunlap, R.E., Brulle, R.J. eds., _Climate Change and Society: Sociological Perspectives_. Oxford University Press. Chapter 5.
 
 Class
-: **Lecture**{: .label .label-lecture } Effecting change from below: grassroots social movements
-: **Discussion 4**{: .label .label-disc } Thinking through the impacts of transgressive climate activism on ourselves
-: **Questions 7**{: .label .label-hw } Reading questions due
+: **Lecture**{: .label .label-lecture } The origins of different types of climate justice
+: **In-class Exercise 3**{: .label .label-lab } Identifying mechanisms exercise
+: **Questions 6**{: .label .label-hw } Reading questions due

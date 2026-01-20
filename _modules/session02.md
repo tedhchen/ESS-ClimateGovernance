@@ -1,5 +1,5 @@
 ---
-title: Week 2 (Jan. 28)
+title: Week 2 (Jan. 27)
 type: outline
 ---
 
