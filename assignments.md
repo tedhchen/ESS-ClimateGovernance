@@ -60,17 +60,17 @@ This page contains an overview of our course assignments and draft versions of t
 </table>
 
 ## Reading questions
-Short reading questions will be assigned for weeks 2-4 and 6-13. These will be basic questions (i.e., if you do the readings you will know the answers). Each week's questions will be assigned by Thursday the week prior and are due before noon on Tuesday. 
+Short reading questions will be assigned for weeks 2-4 and 6-13. These will be basic questions (i.e., if you do the readings you will know the answers). Each week's questions will be assigned by Wednesday the week prior and are due before noon on Wednesday. 
 
 Each week's questions will be worth 2 points for a total of 22 points. [Draft of weekly reading questions]({{ site.baseurl }}{% link assets/evpp436_questions.pdf %}) (subject to change).
 
 ## Discussion questions
-In weeks 2, 4, 7, 9, 11, and 12, we will have discussion sessions during class. In these discussion sessions, we will critically review social scientific research on the week's climate governance topic. Questions to facilitate these discussions will be assigned by Thursday the week prior.
+In weeks 2, 4, 7, 9, 11, and 12, we will have discussion sessions during class. In these discussion sessions, we will critically review social scientific research on the week's climate governance topic. Questions to facilitate these discussions will be assigned by Wednesday the week prior.
 
 Discussion for each session is worth 4 points for a total of 24 points. [Draft of discussion questions]({{ site.baseurl }}{% link assets/evpp436_discussion.pdf %}) (subject to change).
 
 ## In-class exercises and write-ups
-In weeks 3, 6, 8, and 13, we will have in-class exercises. In these sessions, we will, both independently and in groups, apply lecture and reading materials to produce knowledge that can be used in some part of the climate policy process. Following each in-class exercise, you will have a short writing task designed to distill what you learned. Your write-ups are due before noon on the Tuesday the week following the exercise. 
+In weeks 3, 6, 8, and 13, we will have in-class exercises. In these sessions, we will, both independently and in groups, apply lecture and reading materials to produce knowledge that can be used in some part of the climate policy process. Following each in-class exercise, you will have a short writing task designed to distill what you learned. Your write-ups are due before noon on the Wednesday the week following the exercise. 
 
 Each exercise and write-up is worth 6 points for a total of 24 points. [Draft of exercises]({{ site.baseurl }}{% link assets/evpp436_exercises.pdf %}) (subject to change).
 
