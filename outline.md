@@ -64,7 +64,7 @@ The course outline is subject to change to adapt to contingencies that may arise
   <tr>
     <td class="tg-za14">5</td>
     <td class="tg-za14">Feb. 17</td>
-    <td class="tg-za14" colspan="2">None</span></td>
+    <td class="tg-za14" colspan="2">None</td>
   </tr>
   <tr>
     <td class="tg-za14">6</td>
