@@ -75,7 +75,7 @@ In weeks 3, 6, 8, and 13, we will have in-class exercises. In these sessions, we
 Each exercise and write-up is worth 6 points for a total of 24 points. [Draft of exercises]({{ site.baseurl }}{% link assets/evpp436_exercises.pdf %}) (subject to change).
 
 ## Final research-based project
-The capstone project for this course will be a written assignment emphasizing student production of research in one of three formats described below. You will complete the project in teams of 1-2 students. To practice scientific communication, you will present your projects in week 14 of the class. The final written project is due by 11:59pm on Mon. May 12.
+The capstone project for this course will be a written assignment emphasizing student production of research in one of three formats described below. You will complete the project in teams of 1-2 students. To practice scientific communication, you will present your projects in week 14 of the class. The final written project is due by 11:59pm on Mon. May 11.
 
 This project, including both written and presentation portions, is worth 30 points. [Draft of final project criteria]({{ site.baseurl }}{% link assets/evpp436_final.pdf %}) (subject to change).
 
