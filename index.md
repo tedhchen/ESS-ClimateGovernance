@@ -9,7 +9,7 @@ seo:
 
 # Politics of Climate Change Governance
 {: .mb-2 }
-Course site for EVPP 436 at George Mason University.
+Course site for EVPP 436 at George Mason University (Spring 2026).
 {: .fs-6 .fw-300 }
 
 ## About
@@ -24,9 +24,11 @@ In this course, we will practice being informed consumers of social scientific r
 
 **Meeting Times:** Tue. 4:30-7:10pm
 
-**Meeting Locations:** Angel Cabrera Global Center 1320A
+**Meeting Locations:** Angel Cabrera Global Center 1320B
 
-**Office Hours:** David King 3036, Mon. 11am-1pm and by appointment
+**Office Hours:** 
+- Tue. 11am-12pm at David King 3036
+- By appointment
 
 **Instructors:**
 {{ site.staffers | where: 'name', 'Ted Hsuan Yun Chen' }}
